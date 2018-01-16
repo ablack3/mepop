@@ -1,0 +1,641 @@
+"hsacity","hsanum","asgroup","pop"
+"Augusta",20001,"F_35_39",2271
+"Augusta",20001,"F_40_44",2639
+"Augusta",20001,"F_45_49",3173
+"Augusta",20001,"F_50_54",3252
+"Augusta",20001,"F_55_59",3006
+"Augusta",20001,"F_60_64",2658
+"Augusta",20001,"F_65_69",1836
+"Augusta",20001,"F_70_74",1389
+"Augusta",20001,"F_75_79",1125
+"Augusta",20001,"F_80+",2022
+"Augusta",20001,"M_35_39",2263
+"Augusta",20001,"M_40_44",2581
+"Augusta",20001,"M_45_49",3040
+"Augusta",20001,"M_50_54",3094
+"Augusta",20001,"M_55_59",2796
+"Augusta",20001,"M_60_64",2563
+"Augusta",20001,"M_65_69",1777
+"Augusta",20001,"M_70_74",1214
+"Augusta",20001,"M_75_79",971
+"Augusta",20001,"M_80+",1229
+"Bangor",20002,"F_35_39",4114
+"Bangor",20002,"F_40_44",4475
+"Bangor",20002,"F_45_49",5341
+"Bangor",20002,"F_50_54",5495
+"Bangor",20002,"F_55_59",4860
+"Bangor",20002,"F_60_64",4122
+"Bangor",20002,"F_65_69",2828
+"Bangor",20002,"F_70_74",2257
+"Bangor",20002,"F_75_79",1938
+"Bangor",20002,"F_80+",3378
+"Bangor",20002,"M_35_39",3881
+"Bangor",20002,"M_40_44",4307
+"Bangor",20002,"M_45_49",5053
+"Bangor",20002,"M_50_54",5150
+"Bangor",20002,"M_55_59",4699
+"Bangor",20002,"M_60_64",3921
+"Bangor",20002,"M_65_69",2640
+"Bangor",20002,"M_70_74",1862
+"Bangor",20002,"M_75_79",1549
+"Bangor",20002,"M_80+",1843
+"Bar Harbor",20003,"F_35_39",344
+"Bar Harbor",20003,"F_40_44",357
+"Bar Harbor",20003,"F_45_49",443
+"Bar Harbor",20003,"F_50_54",508
+"Bar Harbor",20003,"F_55_59",508
+"Bar Harbor",20003,"F_60_64",479
+"Bar Harbor",20003,"F_65_69",321
+"Bar Harbor",20003,"F_70_74",243
+"Bar Harbor",20003,"F_75_79",206
+"Bar Harbor",20003,"F_80+",449
+"Bar Harbor",20003,"M_35_39",275
+"Bar Harbor",20003,"M_40_44",320
+"Bar Harbor",20003,"M_45_49",415
+"Bar Harbor",20003,"M_50_54",480
+"Bar Harbor",20003,"M_55_59",521
+"Bar Harbor",20003,"M_60_64",439
+"Bar Harbor",20003,"M_65_69",290
+"Bar Harbor",20003,"M_70_74",212
+"Bar Harbor",20003,"M_75_79",177
+"Bar Harbor",20003,"M_80+",236
+"Belfast",20005,"F_35_39",601
+"Belfast",20005,"F_40_44",638
+"Belfast",20005,"F_45_49",830
+"Belfast",20005,"F_50_54",907
+"Belfast",20005,"F_55_59",940
+"Belfast",20005,"F_60_64",865
+"Belfast",20005,"F_65_69",611
+"Belfast",20005,"F_70_74",432
+"Belfast",20005,"F_75_79",362
+"Belfast",20005,"F_80+",618
+"Belfast",20005,"M_35_39",564
+"Belfast",20005,"M_40_44",660
+"Belfast",20005,"M_45_49",703
+"Belfast",20005,"M_50_54",787
+"Belfast",20005,"M_55_59",847
+"Belfast",20005,"M_60_64",798
+"Belfast",20005,"M_65_69",556
+"Belfast",20005,"M_70_74",376
+"Belfast",20005,"M_75_79",284
+"Belfast",20005,"M_80+",340
+"Biddeford",20006,"F_35_39",2043
+"Biddeford",20006,"F_40_44",2507
+"Biddeford",20006,"F_45_49",2874
+"Biddeford",20006,"F_50_54",2930
+"Biddeford",20006,"F_55_59",2746
+"Biddeford",20006,"F_60_64",2367
+"Biddeford",20006,"F_65_69",1804
+"Biddeford",20006,"F_70_74",1381
+"Biddeford",20006,"F_75_79",1247
+"Biddeford",20006,"F_80+",2274
+"Biddeford",20006,"M_35_39",1967
+"Biddeford",20006,"M_40_44",2394
+"Biddeford",20006,"M_45_49",2764
+"Biddeford",20006,"M_50_54",2772
+"Biddeford",20006,"M_55_59",2483
+"Biddeford",20006,"M_60_64",2239
+"Biddeford",20006,"M_65_69",1505
+"Biddeford",20006,"M_70_74",1147
+"Biddeford",20006,"M_75_79",869
+"Biddeford",20006,"M_80+",1210
+"Blue Hill",20007,"F_35_39",265
+"Blue Hill",20007,"F_40_44",331
+"Blue Hill",20007,"F_45_49",402
+"Blue Hill",20007,"F_50_54",409
+"Blue Hill",20007,"F_55_59",519
+"Blue Hill",20007,"F_60_64",506
+"Blue Hill",20007,"F_65_69",407
+"Blue Hill",20007,"F_70_74",255
+"Blue Hill",20007,"F_75_79",210
+"Blue Hill",20007,"F_80+",418
+"Blue Hill",20007,"M_35_39",256
+"Blue Hill",20007,"M_40_44",285
+"Blue Hill",20007,"M_45_49",365
+"Blue Hill",20007,"M_50_54",409
+"Blue Hill",20007,"M_55_59",452
+"Blue Hill",20007,"M_60_64",457
+"Blue Hill",20007,"M_65_69",405
+"Blue Hill",20007,"M_70_74",261
+"Blue Hill",20007,"M_75_79",168
+"Blue Hill",20007,"M_80+",243
+"Boothbay Harbor",20008,"F_35_39",142
+"Boothbay Harbor",20008,"F_40_44",168
+"Boothbay Harbor",20008,"F_45_49",203
+"Boothbay Harbor",20008,"F_50_54",268
+"Boothbay Harbor",20008,"F_55_59",301
+"Boothbay Harbor",20008,"F_60_64",305
+"Boothbay Harbor",20008,"F_65_69",304
+"Boothbay Harbor",20008,"F_70_74",182
+"Boothbay Harbor",20008,"F_75_79",166
+"Boothbay Harbor",20008,"F_80+",285
+"Boothbay Harbor",20008,"M_35_39",128
+"Boothbay Harbor",20008,"M_40_44",157
+"Boothbay Harbor",20008,"M_45_49",193
+"Boothbay Harbor",20008,"M_50_54",234
+"Boothbay Harbor",20008,"M_55_59",237
+"Boothbay Harbor",20008,"M_60_64",291
+"Boothbay Harbor",20008,"M_65_69",260
+"Boothbay Harbor",20008,"M_70_74",185
+"Boothbay Harbor",20008,"M_75_79",150
+"Boothbay Harbor",20008,"M_80+",188
+"Bridgton",20009,"F_35_39",552
+"Bridgton",20009,"F_40_44",691
+"Bridgton",20009,"F_45_49",864
+"Bridgton",20009,"F_50_54",964
+"Bridgton",20009,"F_55_59",857
+"Bridgton",20009,"F_60_64",731
+"Bridgton",20009,"F_65_69",549
+"Bridgton",20009,"F_70_74",447
+"Bridgton",20009,"F_75_79",305
+"Bridgton",20009,"F_80+",430
+"Bridgton",20009,"M_35_39",495
+"Bridgton",20009,"M_40_44",635
+"Bridgton",20009,"M_45_49",812
+"Bridgton",20009,"M_50_54",910
+"Bridgton",20009,"M_55_59",840
+"Bridgton",20009,"M_60_64",786
+"Bridgton",20009,"M_65_69",535
+"Bridgton",20009,"M_70_74",416
+"Bridgton",20009,"M_75_79",305
+"Bridgton",20009,"M_80+",310
+"Brunswick",20010,"F_35_39",2158
+"Brunswick",20010,"F_40_44",2402
+"Brunswick",20010,"F_45_49",2965
+"Brunswick",20010,"F_50_54",3094
+"Brunswick",20010,"F_55_59",2990
+"Brunswick",20010,"F_60_64",2562
+"Brunswick",20010,"F_65_69",2065
+"Brunswick",20010,"F_70_74",1482
+"Brunswick",20010,"F_75_79",1260
+"Brunswick",20010,"F_80+",2188
+"Brunswick",20010,"M_35_39",1977
+"Brunswick",20010,"M_40_44",2219
+"Brunswick",20010,"M_45_49",2716
+"Brunswick",20010,"M_50_54",2767
+"Brunswick",20010,"M_55_59",2645
+"Brunswick",20010,"M_60_64",2408
+"Brunswick",20010,"M_65_69",1876
+"Brunswick",20010,"M_70_74",1287
+"Brunswick",20010,"M_75_79",973
+"Brunswick",20010,"M_80+",1201
+"Calais",20011,"F_35_39",344
+"Calais",20011,"F_40_44",449
+"Calais",20011,"F_45_49",462
+"Calais",20011,"F_50_54",581
+"Calais",20011,"F_55_59",541
+"Calais",20011,"F_60_64",532
+"Calais",20011,"F_65_69",358
+"Calais",20011,"F_70_74",313
+"Calais",20011,"F_75_79",255
+"Calais",20011,"F_80+",440
+"Calais",20011,"M_35_39",341
+"Calais",20011,"M_40_44",395
+"Calais",20011,"M_45_49",505
+"Calais",20011,"M_50_54",587
+"Calais",20011,"M_55_59",515
+"Calais",20011,"M_60_64",519
+"Calais",20011,"M_65_69",394
+"Calais",20011,"M_70_74",256
+"Calais",20011,"M_75_79",209
+"Calais",20011,"M_80+",230
+"Caribou",20012,"F_35_39",525
+"Caribou",20012,"F_40_44",552
+"Caribou",20012,"F_45_49",672
+"Caribou",20012,"F_50_54",664
+"Caribou",20012,"F_55_59",733
+"Caribou",20012,"F_60_64",650
+"Caribou",20012,"F_65_69",555
+"Caribou",20012,"F_70_74",400
+"Caribou",20012,"F_75_79",358
+"Caribou",20012,"F_80+",548
+"Caribou",20012,"M_35_39",415
+"Caribou",20012,"M_40_44",552
+"Caribou",20012,"M_45_49",685
+"Caribou",20012,"M_50_54",679
+"Caribou",20012,"M_55_59",667
+"Caribou",20012,"M_60_64",637
+"Caribou",20012,"M_65_69",534
+"Caribou",20012,"M_70_74",379
+"Caribou",20012,"M_75_79",293
+"Caribou",20012,"M_80+",322
+"Damariscotta",20013,"F_35_39",298
+"Damariscotta",20013,"F_40_44",332
+"Damariscotta",20013,"F_45_49",409
+"Damariscotta",20013,"F_50_54",496
+"Damariscotta",20013,"F_55_59",528
+"Damariscotta",20013,"F_60_64",520
+"Damariscotta",20013,"F_65_69",448
+"Damariscotta",20013,"F_70_74",329
+"Damariscotta",20013,"F_75_79",261
+"Damariscotta",20013,"F_80+",577
+"Damariscotta",20013,"M_35_39",295
+"Damariscotta",20013,"M_40_44",296
+"Damariscotta",20013,"M_45_49",417
+"Damariscotta",20013,"M_50_54",395
+"Damariscotta",20013,"M_55_59",476
+"Damariscotta",20013,"M_60_64",475
+"Damariscotta",20013,"M_65_69",407
+"Damariscotta",20013,"M_70_74",279
+"Damariscotta",20013,"M_75_79",244
+"Damariscotta",20013,"M_80+",315
+"Dover-Foxcroft",20014,"F_35_39",518
+"Dover-Foxcroft",20014,"F_40_44",644
+"Dover-Foxcroft",20014,"F_45_49",723
+"Dover-Foxcroft",20014,"F_50_54",829
+"Dover-Foxcroft",20014,"F_55_59",753
+"Dover-Foxcroft",20014,"F_60_64",679
+"Dover-Foxcroft",20014,"F_65_69",549
+"Dover-Foxcroft",20014,"F_70_74",413
+"Dover-Foxcroft",20014,"F_75_79",343
+"Dover-Foxcroft",20014,"F_80+",601
+"Dover-Foxcroft",20014,"M_35_39",526
+"Dover-Foxcroft",20014,"M_40_44",570
+"Dover-Foxcroft",20014,"M_45_49",707
+"Dover-Foxcroft",20014,"M_50_54",801
+"Dover-Foxcroft",20014,"M_55_59",745
+"Dover-Foxcroft",20014,"M_60_64",730
+"Dover-Foxcroft",20014,"M_65_69",587
+"Dover-Foxcroft",20014,"M_70_74",391
+"Dover-Foxcroft",20014,"M_75_79",257
+"Dover-Foxcroft",20014,"M_80+",389
+"Ellsworth",20015,"F_35_39",725
+"Ellsworth",20015,"F_40_44",854
+"Ellsworth",20015,"F_45_49",1034
+"Ellsworth",20015,"F_50_54",1106
+"Ellsworth",20015,"F_55_59",1048
+"Ellsworth",20015,"F_60_64",1001
+"Ellsworth",20015,"F_65_69",733
+"Ellsworth",20015,"F_70_74",533
+"Ellsworth",20015,"F_75_79",464
+"Ellsworth",20015,"F_80+",663
+"Ellsworth",20015,"M_35_39",737
+"Ellsworth",20015,"M_40_44",860
+"Ellsworth",20015,"M_45_49",974
+"Ellsworth",20015,"M_50_54",1035
+"Ellsworth",20015,"M_55_59",1018
+"Ellsworth",20015,"M_60_64",982
+"Ellsworth",20015,"M_65_69",670
+"Ellsworth",20015,"M_70_74",461
+"Ellsworth",20015,"M_75_79",390
+"Ellsworth",20015,"M_80+",410
+"Farmington",20016,"F_35_39",1051
+"Farmington",20016,"F_40_44",1274
+"Farmington",20016,"F_45_49",1591
+"Farmington",20016,"F_50_54",1700
+"Farmington",20016,"F_55_59",1565
+"Farmington",20016,"F_60_64",1278
+"Farmington",20016,"F_65_69",1070
+"Farmington",20016,"F_70_74",781
+"Farmington",20016,"F_75_79",624
+"Farmington",20016,"F_80+",965
+"Farmington",20016,"M_35_39",1025
+"Farmington",20016,"M_40_44",1160
+"Farmington",20016,"M_45_49",1540
+"Farmington",20016,"M_50_54",1652
+"Farmington",20016,"M_55_59",1533
+"Farmington",20016,"M_60_64",1318
+"Farmington",20016,"M_65_69",1059
+"Farmington",20016,"M_70_74",770
+"Farmington",20016,"M_75_79",577
+"Farmington",20016,"M_80+",610
+"Fort Kent",20017,"F_35_39",337
+"Fort Kent",20017,"F_40_44",422
+"Fort Kent",20017,"F_45_49",520
+"Fort Kent",20017,"F_50_54",553
+"Fort Kent",20017,"F_55_59",540
+"Fort Kent",20017,"F_60_64",511
+"Fort Kent",20017,"F_65_69",403
+"Fort Kent",20017,"F_70_74",363
+"Fort Kent",20017,"F_75_79",290
+"Fort Kent",20017,"F_80+",496
+"Fort Kent",20017,"M_35_39",348
+"Fort Kent",20017,"M_40_44",431
+"Fort Kent",20017,"M_45_49",538
+"Fort Kent",20017,"M_50_54",582
+"Fort Kent",20017,"M_55_59",540
+"Fort Kent",20017,"M_60_64",527
+"Fort Kent",20017,"M_65_69",396
+"Fort Kent",20017,"M_70_74",342
+"Fort Kent",20017,"M_75_79",253
+"Fort Kent",20017,"M_80+",279
+"Greenville",20035,"F_35_39",105
+"Greenville",20035,"F_40_44",131
+"Greenville",20035,"F_45_49",162
+"Greenville",20035,"F_50_54",196
+"Greenville",20035,"F_55_59",209
+"Greenville",20035,"F_60_64",201
+"Greenville",20035,"F_65_69",127
+"Greenville",20035,"F_70_74",124
+"Greenville",20035,"F_75_79",75
+"Greenville",20035,"F_80+",120
+"Greenville",20035,"M_35_39",97
+"Greenville",20035,"M_40_44",103
+"Greenville",20035,"M_45_49",165
+"Greenville",20035,"M_50_54",189
+"Greenville",20035,"M_55_59",218
+"Greenville",20035,"M_60_64",244
+"Greenville",20035,"M_65_69",172
+"Greenville",20035,"M_70_74",127
+"Greenville",20035,"M_75_79",96
+"Greenville",20035,"M_80+",72
+"Houlton",20018,"F_35_39",471
+"Houlton",20018,"F_40_44",586
+"Houlton",20018,"F_45_49",696
+"Houlton",20018,"F_50_54",686
+"Houlton",20018,"F_55_59",719
+"Houlton",20018,"F_60_64",592
+"Houlton",20018,"F_65_69",453
+"Houlton",20018,"F_70_74",392
+"Houlton",20018,"F_75_79",364
+"Houlton",20018,"F_80+",622
+"Houlton",20018,"M_35_39",422
+"Houlton",20018,"M_40_44",550
+"Houlton",20018,"M_45_49",707
+"Houlton",20018,"M_50_54",707
+"Houlton",20018,"M_55_59",656
+"Houlton",20018,"M_60_64",643
+"Houlton",20018,"M_65_69",439
+"Houlton",20018,"M_70_74",313
+"Houlton",20018,"M_75_79",296
+"Houlton",20018,"M_80+",346
+"Lewiston",20019,"F_35_39",3755
+"Lewiston",20019,"F_40_44",4287
+"Lewiston",20019,"F_45_49",4896
+"Lewiston",20019,"F_50_54",4719
+"Lewiston",20019,"F_55_59",4134
+"Lewiston",20019,"F_60_64",3626
+"Lewiston",20019,"F_65_69",2534
+"Lewiston",20019,"F_70_74",1863
+"Lewiston",20019,"F_75_79",1786
+"Lewiston",20019,"F_80+",3015
+"Lewiston",20019,"M_35_39",3722
+"Lewiston",20019,"M_40_44",4172
+"Lewiston",20019,"M_45_49",4850
+"Lewiston",20019,"M_50_54",4723
+"Lewiston",20019,"M_55_59",4069
+"Lewiston",20019,"M_60_64",3549
+"Lewiston",20019,"M_65_69",2350
+"Lewiston",20019,"M_70_74",1734
+"Lewiston",20019,"M_75_79",1317
+"Lewiston",20019,"M_80+",1558
+"Lincoln",20020,"F_35_39",356
+"Lincoln",20020,"F_40_44",477
+"Lincoln",20020,"F_45_49",593
+"Lincoln",20020,"F_50_54",635
+"Lincoln",20020,"F_55_59",546
+"Lincoln",20020,"F_60_64",472
+"Lincoln",20020,"F_65_69",410
+"Lincoln",20020,"F_70_74",330
+"Lincoln",20020,"F_75_79",246
+"Lincoln",20020,"F_80+",331
+"Lincoln",20020,"M_35_39",370
+"Lincoln",20020,"M_40_44",433
+"Lincoln",20020,"M_45_49",572
+"Lincoln",20020,"M_50_54",673
+"Lincoln",20020,"M_55_59",563
+"Lincoln",20020,"M_60_64",501
+"Lincoln",20020,"M_65_69",385
+"Lincoln",20020,"M_70_74",323
+"Lincoln",20020,"M_75_79",237
+"Lincoln",20020,"M_80+",242
+"Machias",20021,"F_35_39",380
+"Machias",20021,"F_40_44",468
+"Machias",20021,"F_45_49",557
+"Machias",20021,"F_50_54",625
+"Machias",20021,"F_55_59",633
+"Machias",20021,"F_60_64",592
+"Machias",20021,"F_65_69",504
+"Machias",20021,"F_70_74",372
+"Machias",20021,"F_75_79",301
+"Machias",20021,"F_80+",449
+"Machias",20021,"M_35_39",417
+"Machias",20021,"M_40_44",436
+"Machias",20021,"M_45_49",558
+"Machias",20021,"M_50_54",608
+"Machias",20021,"M_55_59",616
+"Machias",20021,"M_60_64",623
+"Machias",20021,"M_65_69",471
+"Machias",20021,"M_70_74",344
+"Machias",20021,"M_75_79",267
+"Machias",20021,"M_80+",290
+"Millinocket",20022,"F_35_39",246
+"Millinocket",20022,"F_40_44",294
+"Millinocket",20022,"F_45_49",395
+"Millinocket",20022,"F_50_54",503
+"Millinocket",20022,"F_55_59",453
+"Millinocket",20022,"F_60_64",370
+"Millinocket",20022,"F_65_69",297
+"Millinocket",20022,"F_70_74",264
+"Millinocket",20022,"F_75_79",246
+"Millinocket",20022,"F_80+",345
+"Millinocket",20022,"M_35_39",225
+"Millinocket",20022,"M_40_44",283
+"Millinocket",20022,"M_45_49",355
+"Millinocket",20022,"M_50_54",484
+"Millinocket",20022,"M_55_59",507
+"Millinocket",20022,"M_60_64",426
+"Millinocket",20022,"M_65_69",301
+"Millinocket",20022,"M_70_74",232
+"Millinocket",20022,"M_75_79",180
+"Millinocket",20022,"M_80+",255
+"Norway",20023,"F_35_39",780
+"Norway",20023,"F_40_44",904
+"Norway",20023,"F_45_49",1033
+"Norway",20023,"F_50_54",1183
+"Norway",20023,"F_55_59",1022
+"Norway",20023,"F_60_64",895
+"Norway",20023,"F_65_69",716
+"Norway",20023,"F_70_74",551
+"Norway",20023,"F_75_79",489
+"Norway",20023,"F_80+",764
+"Norway",20023,"M_35_39",726
+"Norway",20023,"M_40_44",899
+"Norway",20023,"M_45_49",1102
+"Norway",20023,"M_50_54",1041
+"Norway",20023,"M_55_59",1014
+"Norway",20023,"M_60_64",951
+"Norway",20023,"M_65_69",689
+"Norway",20023,"M_70_74",493
+"Norway",20023,"M_75_79",385
+"Norway",20023,"M_80+",486
+"Pittsfield",20024,"F_35_39",561
+"Pittsfield",20024,"F_40_44",686
+"Pittsfield",20024,"F_45_49",799
+"Pittsfield",20024,"F_50_54",799
+"Pittsfield",20024,"F_55_59",723
+"Pittsfield",20024,"F_60_64",618
+"Pittsfield",20024,"F_65_69",503
+"Pittsfield",20024,"F_70_74",376
+"Pittsfield",20024,"F_75_79",275
+"Pittsfield",20024,"F_80+",435
+"Pittsfield",20024,"M_35_39",585
+"Pittsfield",20024,"M_40_44",669
+"Pittsfield",20024,"M_45_49",757
+"Pittsfield",20024,"M_50_54",789
+"Pittsfield",20024,"M_55_59",669
+"Pittsfield",20024,"M_60_64",620
+"Pittsfield",20024,"M_65_69",471
+"Pittsfield",20024,"M_70_74",337
+"Pittsfield",20024,"M_75_79",258
+"Pittsfield",20024,"M_80+",259
+"Portland",20025,"F_35_39",8687
+"Portland",20025,"F_40_44",9720
+"Portland",20025,"F_45_49",10896
+"Portland",20025,"F_50_54",10751
+"Portland",20025,"F_55_59",9731
+"Portland",20025,"F_60_64",7871
+"Portland",20025,"F_65_69",5527
+"Portland",20025,"F_70_74",4055
+"Portland",20025,"F_75_79",3488
+"Portland",20025,"F_80+",7156
+"Portland",20025,"M_35_39",8436
+"Portland",20025,"M_40_44",9534
+"Portland",20025,"M_45_49",10595
+"Portland",20025,"M_50_54",10123
+"Portland",20025,"M_55_59",8979
+"Portland",20025,"M_60_64",7592
+"Portland",20025,"M_65_69",4959
+"Portland",20025,"M_70_74",3327
+"Portland",20025,"M_75_79",2539
+"Portland",20025,"M_80+",3628
+"Presque Isle",20026,"F_35_39",714
+"Presque Isle",20026,"F_40_44",788
+"Presque Isle",20026,"F_45_49",951
+"Presque Isle",20026,"F_50_54",1010
+"Presque Isle",20026,"F_55_59",977
+"Presque Isle",20026,"F_60_64",824
+"Presque Isle",20026,"F_65_69",637
+"Presque Isle",20026,"F_70_74",564
+"Presque Isle",20026,"F_75_79",475
+"Presque Isle",20026,"F_80+",797
+"Presque Isle",20026,"M_35_39",707
+"Presque Isle",20026,"M_40_44",858
+"Presque Isle",20026,"M_45_49",908
+"Presque Isle",20026,"M_50_54",1020
+"Presque Isle",20026,"M_55_59",980
+"Presque Isle",20026,"M_60_64",844
+"Presque Isle",20026,"M_65_69",594
+"Presque Isle",20026,"M_70_74",474
+"Presque Isle",20026,"M_75_79",361
+"Presque Isle",20026,"M_80+",421
+"Rockland",20027,"F_35_39",1387
+"Rockland",20027,"F_40_44",1544
+"Rockland",20027,"F_45_49",1865
+"Rockland",20027,"F_50_54",2207
+"Rockland",20027,"F_55_59",2186
+"Rockland",20027,"F_60_64",1975
+"Rockland",20027,"F_65_69",1478
+"Rockland",20027,"F_70_74",1133
+"Rockland",20027,"F_75_79",883
+"Rockland",20027,"F_80+",1663
+"Rockland",20027,"M_35_39",1537
+"Rockland",20027,"M_40_44",1600
+"Rockland",20027,"M_45_49",1868
+"Rockland",20027,"M_50_54",1993
+"Rockland",20027,"M_55_59",2006
+"Rockland",20027,"M_60_64",1912
+"Rockland",20027,"M_65_69",1403
+"Rockland",20027,"M_70_74",952
+"Rockland",20027,"M_75_79",741
+"Rockland",20027,"M_80+",1051
+"Rumford",20028,"F_35_39",436
+"Rumford",20028,"F_40_44",491
+"Rumford",20028,"F_45_49",662
+"Rumford",20028,"F_50_54",717
+"Rumford",20028,"F_55_59",578
+"Rumford",20028,"F_60_64",488
+"Rumford",20028,"F_65_69",391
+"Rumford",20028,"F_70_74",318
+"Rumford",20028,"F_75_79",311
+"Rumford",20028,"F_80+",518
+"Rumford",20028,"M_35_39",400
+"Rumford",20028,"M_40_44",481
+"Rumford",20028,"M_45_49",645
+"Rumford",20028,"M_50_54",695
+"Rumford",20028,"M_55_59",651
+"Rumford",20028,"M_60_64",511
+"Rumford",20028,"M_65_69",399
+"Rumford",20028,"M_70_74",302
+"Rumford",20028,"M_75_79",304
+"Rumford",20028,"M_80+",272
+"Sanford",20029,"F_35_39",1740
+"Sanford",20029,"F_40_44",1901
+"Sanford",20029,"F_45_49",2295
+"Sanford",20029,"F_50_54",2298
+"Sanford",20029,"F_55_59",2023
+"Sanford",20029,"F_60_64",1630
+"Sanford",20029,"F_65_69",1158
+"Sanford",20029,"F_70_74",816
+"Sanford",20029,"F_75_79",703
+"Sanford",20029,"F_80+",1195
+"Sanford",20029,"M_35_39",1717
+"Sanford",20029,"M_40_44",1880
+"Sanford",20029,"M_45_49",2274
+"Sanford",20029,"M_50_54",2238
+"Sanford",20029,"M_55_59",1879
+"Sanford",20029,"M_60_64",1585
+"Sanford",20029,"M_65_69",1140
+"Sanford",20029,"M_70_74",726
+"Sanford",20029,"M_75_79",601
+"Sanford",20029,"M_80+",741
+"Skowhegan",20030,"F_35_39",999
+"Skowhegan",20030,"F_40_44",1126
+"Skowhegan",20030,"F_45_49",1257
+"Skowhegan",20030,"F_50_54",1300
+"Skowhegan",20030,"F_55_59",1251
+"Skowhegan",20030,"F_60_64",1130
+"Skowhegan",20030,"F_65_69",832
+"Skowhegan",20030,"F_70_74",675
+"Skowhegan",20030,"F_75_79",504
+"Skowhegan",20030,"F_80+",872
+"Skowhegan",20030,"M_35_39",973
+"Skowhegan",20030,"M_40_44",1142
+"Skowhegan",20030,"M_45_49",1257
+"Skowhegan",20030,"M_50_54",1314
+"Skowhegan",20030,"M_55_59",1238
+"Skowhegan",20030,"M_60_64",1133
+"Skowhegan",20030,"M_65_69",858
+"Skowhegan",20030,"M_70_74",612
+"Skowhegan",20030,"M_75_79",464
+"Skowhegan",20030,"M_80+",504
+"Waterville",20031,"F_35_39",2120
+"Waterville",20031,"F_40_44",2464
+"Waterville",20031,"F_45_49",2765
+"Waterville",20031,"F_50_54",2954
+"Waterville",20031,"F_55_59",2628
+"Waterville",20031,"F_60_64",2238
+"Waterville",20031,"F_65_69",1667
+"Waterville",20031,"F_70_74",1183
+"Waterville",20031,"F_75_79",1072
+"Waterville",20031,"F_80+",1873
+"Waterville",20031,"M_35_39",2006
+"Waterville",20031,"M_40_44",2310
+"Waterville",20031,"M_45_49",2580
+"Waterville",20031,"M_50_54",2891
+"Waterville",20031,"M_55_59",2643
+"Waterville",20031,"M_60_64",2248
+"Waterville",20031,"M_65_69",1572
+"Waterville",20031,"M_70_74",1068
+"Waterville",20031,"M_75_79",885
+"Waterville",20031,"M_80+",1034
+"York",20033,"F_35_39",1053
+"York",20033,"F_40_44",1329
+"York",20033,"F_45_49",1740
+"York",20033,"F_50_54",1775
+"York",20033,"F_55_59",1825
+"York",20033,"F_60_64",1626
+"York",20033,"F_65_69",1229
+"York",20033,"F_70_74",988
+"York",20033,"F_75_79",790
+"York",20033,"F_80+",1325
+"York",20033,"M_35_39",1007
+"York",20033,"M_40_44",1235
+"York",20033,"M_45_49",1604
+"York",20033,"M_50_54",1596
+"York",20033,"M_55_59",1639
+"York",20033,"M_60_64",1479
+"York",20033,"M_65_69",1069
+"York",20033,"M_70_74",840
+"York",20033,"M_75_79",611
+"York",20033,"M_80+",822

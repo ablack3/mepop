@@ -1,0 +1,129 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Population 16 to 64 years
+HC01_MOE_VC01,Total; Margin of Error; Population 16 to 64 years
+HC02_EST_VC01,Male; Estimate; Population 16 to 64 years
+HC02_MOE_VC01,Male; Margin of Error; Population 16 to 64 years
+HC03_EST_VC01,Female; Estimate; Population 16 to 64 years
+HC03_MOE_VC01,Female; Margin of Error; Population 16 to 64 years
+HC01_EST_VC03,Total; Estimate; WEEKS WORKED - Worked 50 to 52 weeks
+HC01_MOE_VC03,Total; Margin of Error; WEEKS WORKED - Worked 50 to 52 weeks
+HC02_EST_VC03,Male; Estimate; WEEKS WORKED - Worked 50 to 52 weeks
+HC02_MOE_VC03,Male; Margin of Error; WEEKS WORKED - Worked 50 to 52 weeks
+HC03_EST_VC03,Female; Estimate; WEEKS WORKED - Worked 50 to 52 weeks
+HC03_MOE_VC03,Female; Margin of Error; WEEKS WORKED - Worked 50 to 52 weeks
+HC01_EST_VC04,Total; Estimate; WEEKS WORKED - Worked 40 to 49 weeks
+HC01_MOE_VC04,Total; Margin of Error; WEEKS WORKED - Worked 40 to 49 weeks
+HC02_EST_VC04,Male; Estimate; WEEKS WORKED - Worked 40 to 49 weeks
+HC02_MOE_VC04,Male; Margin of Error; WEEKS WORKED - Worked 40 to 49 weeks
+HC03_EST_VC04,Female; Estimate; WEEKS WORKED - Worked 40 to 49 weeks
+HC03_MOE_VC04,Female; Margin of Error; WEEKS WORKED - Worked 40 to 49 weeks
+HC01_EST_VC05,Total; Estimate; WEEKS WORKED - Worked 27 to 39 weeks
+HC01_MOE_VC05,Total; Margin of Error; WEEKS WORKED - Worked 27 to 39 weeks
+HC02_EST_VC05,Male; Estimate; WEEKS WORKED - Worked 27 to 39 weeks
+HC02_MOE_VC05,Male; Margin of Error; WEEKS WORKED - Worked 27 to 39 weeks
+HC03_EST_VC05,Female; Estimate; WEEKS WORKED - Worked 27 to 39 weeks
+HC03_MOE_VC05,Female; Margin of Error; WEEKS WORKED - Worked 27 to 39 weeks
+HC01_EST_VC06,Total; Estimate; WEEKS WORKED - Worked 14 to 26 weeks
+HC01_MOE_VC06,Total; Margin of Error; WEEKS WORKED - Worked 14 to 26 weeks
+HC02_EST_VC06,Male; Estimate; WEEKS WORKED - Worked 14 to 26 weeks
+HC02_MOE_VC06,Male; Margin of Error; WEEKS WORKED - Worked 14 to 26 weeks
+HC03_EST_VC06,Female; Estimate; WEEKS WORKED - Worked 14 to 26 weeks
+HC03_MOE_VC06,Female; Margin of Error; WEEKS WORKED - Worked 14 to 26 weeks
+HC01_EST_VC07,Total; Estimate; WEEKS WORKED - Worked 1 to 13 weeks
+HC01_MOE_VC07,Total; Margin of Error; WEEKS WORKED - Worked 1 to 13 weeks
+HC02_EST_VC07,Male; Estimate; WEEKS WORKED - Worked 1 to 13 weeks
+HC02_MOE_VC07,Male; Margin of Error; WEEKS WORKED - Worked 1 to 13 weeks
+HC03_EST_VC07,Female; Estimate; WEEKS WORKED - Worked 1 to 13 weeks
+HC03_MOE_VC07,Female; Margin of Error; WEEKS WORKED - Worked 1 to 13 weeks
+HC01_EST_VC08,Total; Estimate; WEEKS WORKED - Did not work
+HC01_MOE_VC08,Total; Margin of Error; WEEKS WORKED - Did not work
+HC02_EST_VC08,Male; Estimate; WEEKS WORKED - Did not work
+HC02_MOE_VC08,Male; Margin of Error; WEEKS WORKED - Did not work
+HC03_EST_VC08,Female; Estimate; WEEKS WORKED - Did not work
+HC03_MOE_VC08,Female; Margin of Error; WEEKS WORKED - Did not work
+HC01_EST_VC11,Total; Estimate; USUAL HOURS WORKED - Usually worked 35 or more hours per week
+HC01_MOE_VC11,Total; Margin of Error; USUAL HOURS WORKED - Usually worked 35 or more hours per week
+HC02_EST_VC11,Male; Estimate; USUAL HOURS WORKED - Usually worked 35 or more hours per week
+HC02_MOE_VC11,Male; Margin of Error; USUAL HOURS WORKED - Usually worked 35 or more hours per week
+HC03_EST_VC11,Female; Estimate; USUAL HOURS WORKED - Usually worked 35 or more hours per week
+HC03_MOE_VC11,Female; Margin of Error; USUAL HOURS WORKED - Usually worked 35 or more hours per week
+HC01_EST_VC12,Total; Estimate; USUAL HOURS WORKED - Usually worked 35 or more hours per week - 40 or more weeks
+HC01_MOE_VC12,Total; Margin of Error; USUAL HOURS WORKED - Usually worked 35 or more hours per week - 40 or more weeks
+HC02_EST_VC12,Male; Estimate; USUAL HOURS WORKED - Usually worked 35 or more hours per week - 40 or more weeks
+HC02_MOE_VC12,Male; Margin of Error; USUAL HOURS WORKED - Usually worked 35 or more hours per week - 40 or more weeks
+HC03_EST_VC12,Female; Estimate; USUAL HOURS WORKED - Usually worked 35 or more hours per week - 40 or more weeks
+HC03_MOE_VC12,Female; Margin of Error; USUAL HOURS WORKED - Usually worked 35 or more hours per week - 40 or more weeks
+HC01_EST_VC13,Total; Estimate; USUAL HOURS WORKED - Usually worked 35 or more hours per week - 50 to 52 weeks
+HC01_MOE_VC13,Total; Margin of Error; USUAL HOURS WORKED - Usually worked 35 or more hours per week - 50 to 52 weeks
+HC02_EST_VC13,Male; Estimate; USUAL HOURS WORKED - Usually worked 35 or more hours per week - 50 to 52 weeks
+HC02_MOE_VC13,Male; Margin of Error; USUAL HOURS WORKED - Usually worked 35 or more hours per week - 50 to 52 weeks
+HC03_EST_VC13,Female; Estimate; USUAL HOURS WORKED - Usually worked 35 or more hours per week - 50 to 52 weeks
+HC03_MOE_VC13,Female; Margin of Error; USUAL HOURS WORKED - Usually worked 35 or more hours per week - 50 to 52 weeks
+HC01_EST_VC14,Total; Estimate; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week
+HC01_MOE_VC14,Total; Margin of Error; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week
+HC02_EST_VC14,Male; Estimate; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week
+HC02_MOE_VC14,Male; Margin of Error; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week
+HC03_EST_VC14,Female; Estimate; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week
+HC03_MOE_VC14,Female; Margin of Error; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week
+HC01_EST_VC15,Total; Estimate; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week - 40 or more weeks
+HC01_MOE_VC15,Total; Margin of Error; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week - 40 or more weeks
+HC02_EST_VC15,Male; Estimate; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week - 40 or more weeks
+HC02_MOE_VC15,Male; Margin of Error; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week - 40 or more weeks
+HC03_EST_VC15,Female; Estimate; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week - 40 or more weeks
+HC03_MOE_VC15,Female; Margin of Error; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week - 40 or more weeks
+HC01_EST_VC16,Total; Estimate; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week - 50 to 52 weeks
+HC01_MOE_VC16,Total; Margin of Error; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week - 50 to 52 weeks
+HC02_EST_VC16,Male; Estimate; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week - 50 to 52 weeks
+HC02_MOE_VC16,Male; Margin of Error; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week - 50 to 52 weeks
+HC03_EST_VC16,Female; Estimate; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week - 50 to 52 weeks
+HC03_MOE_VC16,Female; Margin of Error; USUAL HOURS WORKED - Usually worked 15 to 34 hours per week - 50 to 52 weeks
+HC01_EST_VC17,Total; Estimate; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week
+HC01_MOE_VC17,Total; Margin of Error; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week
+HC02_EST_VC17,Male; Estimate; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week
+HC02_MOE_VC17,Male; Margin of Error; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week
+HC03_EST_VC17,Female; Estimate; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week
+HC03_MOE_VC17,Female; Margin of Error; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week
+HC01_EST_VC18,Total; Estimate; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week - 40 or more weeks
+HC01_MOE_VC18,Total; Margin of Error; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week - 40 or more weeks
+HC02_EST_VC18,Male; Estimate; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week - 40 or more weeks
+HC02_MOE_VC18,Male; Margin of Error; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week - 40 or more weeks
+HC03_EST_VC18,Female; Estimate; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week - 40 or more weeks
+HC03_MOE_VC18,Female; Margin of Error; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week - 40 or more weeks
+HC01_EST_VC19,Total; Estimate; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week - 50 to 52 weeks
+HC01_MOE_VC19,Total; Margin of Error; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week - 50 to 52 weeks
+HC02_EST_VC19,Male; Estimate; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week - 50 to 52 weeks
+HC02_MOE_VC19,Male; Margin of Error; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week - 50 to 52 weeks
+HC03_EST_VC19,Female; Estimate; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week - 50 to 52 weeks
+HC03_MOE_VC19,Female; Margin of Error; USUAL HOURS WORKED - Usually worked 1 to 14 hours per week - 50 to 52 weeks
+HC01_EST_VC20,Total; Estimate; USUAL HOURS WORKED - Did not work
+HC01_MOE_VC20,Total; Margin of Error; USUAL HOURS WORKED - Did not work
+HC02_EST_VC20,Male; Estimate; USUAL HOURS WORKED - Did not work
+HC02_MOE_VC20,Male; Margin of Error; USUAL HOURS WORKED - Did not work
+HC03_EST_VC20,Female; Estimate; USUAL HOURS WORKED - Did not work
+HC03_MOE_VC20,Female; Margin of Error; USUAL HOURS WORKED - Did not work
+HC01_EST_VC22,Total; Estimate; Mean usual hours worked for workers
+HC01_MOE_VC22,Total; Margin of Error; Mean usual hours worked for workers
+HC02_EST_VC22,Male; Estimate; Mean usual hours worked for workers
+HC02_MOE_VC22,Male; Margin of Error; Mean usual hours worked for workers
+HC03_EST_VC22,Female; Estimate; Mean usual hours worked for workers
+HC03_MOE_VC22,Female; Margin of Error; Mean usual hours worked for workers
+HC01_EST_VC25,Total; Estimate; PERCENT IMPUTED - Work status in the past 12 months for the population 16 years and over
+HC01_MOE_VC25,Total; Margin of Error; PERCENT IMPUTED - Work status in the past 12 months for the population 16 years and over
+HC02_EST_VC25,Male; Estimate; PERCENT IMPUTED - Work status in the past 12 months for the population 16 years and over
+HC02_MOE_VC25,Male; Margin of Error; PERCENT IMPUTED - Work status in the past 12 months for the population 16 years and over
+HC03_EST_VC25,Female; Estimate; PERCENT IMPUTED - Work status in the past 12 months for the population 16 years and over
+HC03_MOE_VC25,Female; Margin of Error; PERCENT IMPUTED - Work status in the past 12 months for the population 16 years and over
+HC01_EST_VC26,Total; Estimate; PERCENT IMPUTED - Hours worked per week in the past 12 months for the population 16 years and over
+HC01_MOE_VC26,Total; Margin of Error; PERCENT IMPUTED - Hours worked per week in the past 12 months for the population 16 years and over
+HC02_EST_VC26,Male; Estimate; PERCENT IMPUTED - Hours worked per week in the past 12 months for the population 16 years and over
+HC02_MOE_VC26,Male; Margin of Error; PERCENT IMPUTED - Hours worked per week in the past 12 months for the population 16 years and over
+HC03_EST_VC26,Female; Estimate; PERCENT IMPUTED - Hours worked per week in the past 12 months for the population 16 years and over
+HC03_MOE_VC26,Female; Margin of Error; PERCENT IMPUTED - Hours worked per week in the past 12 months for the population 16 years and over
+HC01_EST_VC27,Total; Estimate; PERCENT IMPUTED - Weeks worked in the past 12 months for the population 16 years and over
+HC01_MOE_VC27,Total; Margin of Error; PERCENT IMPUTED - Weeks worked in the past 12 months for the population 16 years and over
+HC02_EST_VC27,Male; Estimate; PERCENT IMPUTED - Weeks worked in the past 12 months for the population 16 years and over
+HC02_MOE_VC27,Male; Margin of Error; PERCENT IMPUTED - Weeks worked in the past 12 months for the population 16 years and over
+HC03_EST_VC27,Female; Estimate; PERCENT IMPUTED - Weeks worked in the past 12 months for the population 16 years and over
+HC03_MOE_VC27,Female; Margin of Error; PERCENT IMPUTED - Weeks worked in the past 12 months for the population 16 years and over

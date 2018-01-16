@@ -1,0 +1,129 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Households
+HC01_MOE_VC01,Total; Margin of Error; Households
+HC02_EST_VC01,Households receiving food stamps; Estimate; Households
+HC02_MOE_VC01,Households receiving food stamps; Margin of Error; Households
+HC03_EST_VC01,Households not receiving food stamps; Estimate; Households
+HC03_MOE_VC01,Households not receiving food stamps; Margin of Error; Households
+HC01_EST_VC02,Total; Estimate; With one or more people 60 years and over
+HC01_MOE_VC02,Total; Margin of Error; With one or more people 60 years and over
+HC02_EST_VC02,Households receiving food stamps; Estimate; With one or more people 60 years and over
+HC02_MOE_VC02,Households receiving food stamps; Margin of Error; With one or more people 60 years and over
+HC03_EST_VC02,Households not receiving food stamps; Estimate; With one or more people 60 years and over
+HC03_MOE_VC02,Households not receiving food stamps; Margin of Error; With one or more people 60 years and over
+HC01_EST_VC03,Total; Estimate; With children under 18 years
+HC01_MOE_VC03,Total; Margin of Error; With children under 18 years
+HC02_EST_VC03,Households receiving food stamps; Estimate; With children under 18 years
+HC02_MOE_VC03,Households receiving food stamps; Margin of Error; With children under 18 years
+HC03_EST_VC03,Households not receiving food stamps; Estimate; With children under 18 years
+HC03_MOE_VC03,Households not receiving food stamps; Margin of Error; With children under 18 years
+HC01_EST_VC06,Total; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC01_MOE_VC06,Total; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC02_EST_VC06,Households receiving food stamps; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC02_MOE_VC06,Households receiving food stamps; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC03_EST_VC06,Households not receiving food stamps; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC03_MOE_VC06,Households not receiving food stamps; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC01_EST_VC09,Total; Estimate; DISABILITY STATUS - With one or more people with a disability
+HC01_MOE_VC09,Total; Margin of Error; DISABILITY STATUS - With one or more people with a disability
+HC02_EST_VC09,Households receiving food stamps; Estimate; DISABILITY STATUS - With one or more people with a disability
+HC02_MOE_VC09,Households receiving food stamps; Margin of Error; DISABILITY STATUS - With one or more people with a disability
+HC03_EST_VC09,Households not receiving food stamps; Estimate; DISABILITY STATUS - With one or more people with a disability
+HC03_MOE_VC09,Households not receiving food stamps; Margin of Error; DISABILITY STATUS - With one or more people with a disability
+HC01_EST_VC12,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race
+HC01_MOE_VC12,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race
+HC02_EST_VC12,Households receiving food stamps; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race
+HC02_MOE_VC12,Households receiving food stamps; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race
+HC03_EST_VC12,Households not receiving food stamps; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race
+HC03_MOE_VC12,Households not receiving food stamps; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race
+HC01_EST_VC13,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - White
+HC01_MOE_VC13,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - White
+HC02_EST_VC13,Households receiving food stamps; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - White
+HC02_MOE_VC13,Households receiving food stamps; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - White
+HC03_EST_VC13,Households not receiving food stamps; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - White
+HC03_MOE_VC13,Households not receiving food stamps; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - White
+HC01_EST_VC14,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Black or African American
+HC01_MOE_VC14,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Black or African American
+HC02_EST_VC14,Households receiving food stamps; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Black or African American
+HC02_MOE_VC14,Households receiving food stamps; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Black or African American
+HC03_EST_VC14,Households not receiving food stamps; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Black or African American
+HC03_MOE_VC14,Households not receiving food stamps; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Black or African American
+HC01_EST_VC15,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - American Indian and Alaska Native
+HC01_MOE_VC15,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - American Indian and Alaska Native
+HC02_EST_VC15,Households receiving food stamps; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - American Indian and Alaska Native
+HC02_MOE_VC15,Households receiving food stamps; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - American Indian and Alaska Native
+HC03_EST_VC15,Households not receiving food stamps; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - American Indian and Alaska Native
+HC03_MOE_VC15,Households not receiving food stamps; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - American Indian and Alaska Native
+HC01_EST_VC16,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Asian
+HC01_MOE_VC16,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Asian
+HC02_EST_VC16,Households receiving food stamps; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Asian
+HC02_MOE_VC16,Households receiving food stamps; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Asian
+HC03_EST_VC16,Households not receiving food stamps; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Asian
+HC03_MOE_VC16,Households not receiving food stamps; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Asian
+HC01_EST_VC17,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Native Hawaiian and Other Pacific Islander
+HC01_MOE_VC17,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Native Hawaiian and Other Pacific Islander
+HC02_EST_VC17,Households receiving food stamps; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Native Hawaiian and Other Pacific Islander
+HC02_MOE_VC17,Households receiving food stamps; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Native Hawaiian and Other Pacific Islander
+HC03_EST_VC17,Households not receiving food stamps; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Native Hawaiian and Other Pacific Islander
+HC03_MOE_VC17,Households not receiving food stamps; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Native Hawaiian and Other Pacific Islander
+HC01_EST_VC18,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Some other race
+HC01_MOE_VC18,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Some other race
+HC02_EST_VC18,Households receiving food stamps; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Some other race
+HC02_MOE_VC18,Households receiving food stamps; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Some other race
+HC03_EST_VC18,Households not receiving food stamps; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Some other race
+HC03_MOE_VC18,Households not receiving food stamps; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - One race - Some other race
+HC01_EST_VC19,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC01_MOE_VC19,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC02_EST_VC19,Households receiving food stamps; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC02_MOE_VC19,Households receiving food stamps; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC03_EST_VC19,Households not receiving food stamps; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC03_MOE_VC19,Households not receiving food stamps; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC01_EST_VC21,Total; Estimate; Hispanic or Latino origin (of any race)
+HC01_MOE_VC21,Total; Margin of Error; Hispanic or Latino origin (of any race)
+HC02_EST_VC21,Households receiving food stamps; Estimate; Hispanic or Latino origin (of any race)
+HC02_MOE_VC21,Households receiving food stamps; Margin of Error; Hispanic or Latino origin (of any race)
+HC03_EST_VC21,Households not receiving food stamps; Estimate; Hispanic or Latino origin (of any race)
+HC03_MOE_VC21,Households not receiving food stamps; Margin of Error; Hispanic or Latino origin (of any race)
+HC01_EST_VC22,"Total; Estimate; White alone, not Hispanic or Latino"
+HC01_MOE_VC22,"Total; Margin of Error; White alone, not Hispanic or Latino"
+HC02_EST_VC22,"Households receiving food stamps; Estimate; White alone, not Hispanic or Latino"
+HC02_MOE_VC22,"Households receiving food stamps; Margin of Error; White alone, not Hispanic or Latino"
+HC03_EST_VC22,"Households not receiving food stamps; Estimate; White alone, not Hispanic or Latino"
+HC03_MOE_VC22,"Households not receiving food stamps; Margin of Error; White alone, not Hispanic or Latino"
+HC01_EST_VC25,Total; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC01_MOE_VC25,Total; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC02_EST_VC25,Households receiving food stamps; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC02_MOE_VC25,Households receiving food stamps; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC03_EST_VC25,Households not receiving food stamps; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC03_MOE_VC25,Households not receiving food stamps; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC01_EST_VC28,Total; Estimate; WORK STATUS - Families
+HC01_MOE_VC28,Total; Margin of Error; WORK STATUS - Families
+HC02_EST_VC28,Households receiving food stamps; Estimate; WORK STATUS - Families
+HC02_MOE_VC28,Households receiving food stamps; Margin of Error; WORK STATUS - Families
+HC03_EST_VC28,Households not receiving food stamps; Estimate; WORK STATUS - Families
+HC03_MOE_VC28,Households not receiving food stamps; Margin of Error; WORK STATUS - Families
+HC01_EST_VC29,Total; Estimate; WORK STATUS - Families - No workers in past 12 months
+HC01_MOE_VC29,Total; Margin of Error; WORK STATUS - Families - No workers in past 12 months
+HC02_EST_VC29,Households receiving food stamps; Estimate; WORK STATUS - Families - No workers in past 12 months
+HC02_MOE_VC29,Households receiving food stamps; Margin of Error; WORK STATUS - Families - No workers in past 12 months
+HC03_EST_VC29,Households not receiving food stamps; Estimate; WORK STATUS - Families - No workers in past 12 months
+HC03_MOE_VC29,Households not receiving food stamps; Margin of Error; WORK STATUS - Families - No workers in past 12 months
+HC01_EST_VC30,Total; Estimate; WORK STATUS - Families - 1 worker in past 12 months
+HC01_MOE_VC30,Total; Margin of Error; WORK STATUS - Families - 1 worker in past 12 months
+HC02_EST_VC30,Households receiving food stamps; Estimate; WORK STATUS - Families - 1 worker in past 12 months
+HC02_MOE_VC30,Households receiving food stamps; Margin of Error; WORK STATUS - Families - 1 worker in past 12 months
+HC03_EST_VC30,Households not receiving food stamps; Estimate; WORK STATUS - Families - 1 worker in past 12 months
+HC03_MOE_VC30,Households not receiving food stamps; Margin of Error; WORK STATUS - Families - 1 worker in past 12 months
+HC01_EST_VC31,Total; Estimate; WORK STATUS - Families - 2 or more workers in past 12 months
+HC01_MOE_VC31,Total; Margin of Error; WORK STATUS - Families - 2 or more workers in past 12 months
+HC02_EST_VC31,Households receiving food stamps; Estimate; WORK STATUS - Families - 2 or more workers in past 12 months
+HC02_MOE_VC31,Households receiving food stamps; Margin of Error; WORK STATUS - Families - 2 or more workers in past 12 months
+HC03_EST_VC31,Households not receiving food stamps; Estimate; WORK STATUS - Families - 2 or more workers in past 12 months
+HC03_MOE_VC31,Households not receiving food stamps; Margin of Error; WORK STATUS - Families - 2 or more workers in past 12 months
+HC01_EST_VC34,Total; Estimate; PERCENT IMPUTED - Food stamp/SNAP recipiency
+HC01_MOE_VC34,Total; Margin of Error; PERCENT IMPUTED - Food stamp/SNAP recipiency
+HC02_EST_VC34,Households receiving food stamps; Estimate; PERCENT IMPUTED - Food stamp/SNAP recipiency
+HC02_MOE_VC34,Households receiving food stamps; Margin of Error; PERCENT IMPUTED - Food stamp/SNAP recipiency
+HC03_EST_VC34,Households not receiving food stamps; Estimate; PERCENT IMPUTED - Food stamp/SNAP recipiency
+HC03_MOE_VC34,Households not receiving food stamps; Margin of Error; PERCENT IMPUTED - Food stamp/SNAP recipiency

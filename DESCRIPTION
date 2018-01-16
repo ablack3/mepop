@@ -1,0 +1,14 @@
+Package: mepop
+Type: Package
+Title: Contains Maine population and demographic datasets
+Version: 0.1.0
+Author: Adam Black
+Maintainer: Adam Black <awblack@mmc.org>
+Description: Contains a few helpful datasets with population counts and 
+    demographic estimates by HSA for Maine
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr

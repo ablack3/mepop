@@ -1,0 +1,1 @@
+County to HSA crosswalk is created from county to zip crosswalks by year downloaded from https://www.huduser.gov/portal/datasets/usps_crosswalk.html on Aug 28, 2017 by Adam and the zip to HSA crosswalk downloaded from the dartmouth atlas website. I think I'm using 2013 crosswalk.
