@@ -14,50 +14,57 @@ This document describes the goals and methods used in the mepop package. The goa
 
 Population estimates can come from two places. The gold standard is the US census that occurs every 10 years. In between the census official population estimates are released by the American Community survey. 
 
-Vignettes are long form documentation commonly included in packages. Because they are part of the distribution of the package, they need to be as compact as possible. The `html_vignette` output type provides a custom style sheet (and tweaks some options) to ensure that the resulting html is as small as possible. The `html_vignette` format:
+It is possible to get 5 year population estimates by age and sex and zip. However if we want 1 year estimates then the smallest geography we can get is county.
 
-- Never uses retina figures
-- Has a smaller default figure size
-- Uses a custom CSS stylesheet instead of the default Twitter Bootstrap style
 
-## Vignette Info
+## County to HSA crosswalk
 
-Note the various macros within the `vignette` section of the metadata block above. These are required in order to instruct R how to build the vignette. Note that you should change the `title` field and the `\VignetteIndexEntry` to match the title of your vignette.
+A County to HSA crosswalk is created from county to zip crosswalks by year downloaded from https://www.huduser.gov/portal/datasets/usps_crosswalk.html The zip to HSA crosswalk downloaded from the dartmouth atlas website. I think I'm using 2013 crosswalk. Maine's zip to HSA crosswalk does not change really at all over time. Since counties are larger than HSAs the goal is to create a crosswalk that attributes each county to one or more HSAs based on population. For example county 23001 is attributed as follows in 2010:
+- 95% Lewiston
+- 5% Farmington
 
-## Styles
 
-The `html_vignette` template includes a basic CSS theme. To override this theme you can specify your own CSS in the document metadata as follows:
+## hsa_pop
 
-    output: 
-      rmarkdown::html_vignette:
-        css: mystyles.css
+Next we use the ACS population counts by age, sex, county, and year along with the county to hsa crosswalk to create population counts by age, sex, HSA, and year. After mulling the problem of yearly age-sex HSA population estimates over for a while this was the best idea I could come up with. It is obviously not ideal but I could not think of a better solution. The major assumption here is that the proportion defined in the county to HSA crosswalk are the same for all age groups. Of course this is not true but it might be good enough.
 
-## Figures
 
-The figure sizes have been customised so that you can easily put two images side-by-side. 
+The output table is hsa_pop.
 
-```{r, fig.show='hold'}
-plot(1:10)
-plot(10:1)
-```
 
-You can enable figure captions by `fig_caption: yes` in YAML:
+## Validation
 
-    output:
-      rmarkdown::html_vignette:
-        fig_caption: yes
+A key part of this package is to provide vaidation that these population esitmates are OK. One approach is to compare the 5 year average of my estimates with the ACS 5 year estimates (ZCTA aggregated to HSA).
 
-Then you can use the chunk option `fig.cap = "Your figure caption."` in **knitr**.
+A second check is to look at the HSA population estimates in 2010 using the decentenial census.
 
-## More Examples
+We also might want to check both total aggregate numbers and summaries by age-sex group.
 
-You can write math expressions, e.g. $Y = X\beta + \epsilon$, footnotes^[A footnote here.], and tables, e.g. using `knitr::kable()`.
 
-```{r, echo=FALSE, results='asis'}
-knitr::kable(head(mtcars, 10))
-```
+## SAE
+A future goal for this package is to provide small area estimates of various census demographic variables such as poverty, insurance status, and education at the HSA level.
 
-Also a quote using `>`:
 
-> "He who gives up [code] safety for [code] speed deserves neither."
-([via](https://twitter.com/hadleywickham/status/504368538874703872))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
