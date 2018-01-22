@@ -1,0 +1,68 @@
+---
+title: "compare population estimates"
+author: "Adam Black"
+date: "1/19/2018"
+output: html_document
+---
+
+Let's compare the 2010 census numbers with the new method using the HUD crosswalk.
+
+
+```{r}
+devtools::load_all()
+hsa_pop_2010 <- hsa_pop %>% 
+    filter(year == 2010)
+
+hsa_pop_cen_asgrp$hsa_pop <- hsa_pop_cen_asgrp$population
+
+dfl <- list(hsa_pop_2010, hsa_pop_cen, hsa_pop_cen_asgrp)
+
+```
+
+
+Compare overall population in 2010
+```{r}
+map_dbl(dfl, ~sum(.[["hsa_pop"]]))
+```
+
+# Compare by HSA
+```{r}
+map(dfl, ~group_by(., hsacity) %>% 
+        summarise(hsa_pop = sum(hsa_pop)) %>% 
+        ungroup()) %>% 
+    reduce(left_join, by = "hsacity") %>% 
+    mutate(hsa_pop.x = round(hsa_pop.x))
+```
+# Compare by HSA anc calc % difference
+```{r}
+map(list(hsa_pop_2010, hsa_pop_cen_asgrp), ~group_by(., hsacity) %>% 
+        summarise(hsa_pop = sum(hsa_pop)) %>% 
+        ungroup()) %>% 
+    reduce(left_join, by = "hsacity") %>% 
+    mutate(hsa_pop.x = round(hsa_pop.x), dif = hsa_pop.x - hsa_pop.y, dif_pct = dif/hsa_pop.x)
+```
+That does not look great to me.
+
+
+
+# Compare by agesex_grp
+```{r}
+map(list(hsa_pop_2010, hsa_pop_cen_asgrp), ~group_by(., agesex_grp) %>% 
+        summarise(hsa_pop = sum(hsa_pop)) %>% 
+        ungroup()) %>% 
+    reduce(left_join, by = "agesex_grp") %>% 
+    mutate(hsa_pop.x = round(hsa_pop.x), dif = hsa_pop.x - hsa_pop.y, dif_pct = dif/hsa_pop.x)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+

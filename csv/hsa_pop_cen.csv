@@ -1,0 +1,1189 @@
+year,source,hsanum,hsacity,hsastate,agesex_grp,pop
+2010,Census,20001,Augusta,ME,F_00_04,1872.0
+2010,Census,20001,Augusta,ME,F_05_09,2e3
+2010,Census,20001,Augusta,ME,F_10_14,2107.0
+2010,Census,20001,Augusta,ME,F_15_19,2125.0
+2010,Census,20001,Augusta,ME,F_20_24,1806.0
+2010,Census,20001,Augusta,ME,F_25_29,2132.0
+2010,Census,20001,Augusta,ME,F_30_34,2082.0
+2010,Census,20001,Augusta,ME,F_35_39,2271.0
+2010,Census,20001,Augusta,ME,F_40_44,2639.0
+2010,Census,20001,Augusta,ME,F_45_49,3173.0
+2010,Census,20001,Augusta,ME,F_50_54,3252.0
+2010,Census,20001,Augusta,ME,F_55_59,3006.0
+2010,Census,20001,Augusta,ME,F_60_64,2658.0
+2010,Census,20001,Augusta,ME,F_65_69,1836.0
+2010,Census,20001,Augusta,ME,F_70_74,1389.0
+2010,Census,20001,Augusta,ME,F_75_79,1125.0
+2010,Census,20001,Augusta,ME,F_80_84,982.0
+2010,Census,20001,Augusta,ME,F_85_110,1040.0
+2010,Census,20001,Augusta,ME,M_00_04,2008.0
+2010,Census,20001,Augusta,ME,M_05_09,2093.0
+2010,Census,20001,Augusta,ME,M_10_14,2228.0
+2010,Census,20001,Augusta,ME,M_15_19,2308.0
+2010,Census,20001,Augusta,ME,M_20_24,1807.0
+2010,Census,20001,Augusta,ME,M_25_29,1983.0
+2010,Census,20001,Augusta,ME,M_30_34,2073.0
+2010,Census,20001,Augusta,ME,M_35_39,2263.0
+2010,Census,20001,Augusta,ME,M_40_44,2581.0
+2010,Census,20001,Augusta,ME,M_45_49,3040.0
+2010,Census,20001,Augusta,ME,M_50_54,3094.0
+2010,Census,20001,Augusta,ME,M_55_59,2796.0
+2010,Census,20001,Augusta,ME,M_60_64,2563.0
+2010,Census,20001,Augusta,ME,M_65_69,1777.0
+2010,Census,20001,Augusta,ME,M_70_74,1214.0
+2010,Census,20001,Augusta,ME,M_75_79,971.0
+2010,Census,20001,Augusta,ME,M_80_84,690.0
+2010,Census,20001,Augusta,ME,M_85_110,539.0
+2010,Census,20002,Bangor,ME,F_00_04,3429.0
+2010,Census,20002,Bangor,ME,F_05_09,3533.0
+2010,Census,20002,Bangor,ME,F_10_14,3492.0
+2010,Census,20002,Bangor,ME,F_15_19,5193.0
+2010,Census,20002,Bangor,ME,F_20_24,6303.0
+2010,Census,20002,Bangor,ME,F_25_29,4288.0
+2010,Census,20002,Bangor,ME,F_30_34,3714.0
+2010,Census,20002,Bangor,ME,F_35_39,4114.0
+2010,Census,20002,Bangor,ME,F_40_44,4475.0
+2010,Census,20002,Bangor,ME,F_45_49,5341.0
+2010,Census,20002,Bangor,ME,F_50_54,5495.0
+2010,Census,20002,Bangor,ME,F_55_59,4860.0
+2010,Census,20002,Bangor,ME,F_60_64,4122.0
+2010,Census,20002,Bangor,ME,F_65_69,2828.0
+2010,Census,20002,Bangor,ME,F_70_74,2257.0
+2010,Census,20002,Bangor,ME,F_75_79,1938.0
+2010,Census,20002,Bangor,ME,F_80_84,1686.0
+2010,Census,20002,Bangor,ME,F_85_110,1692.0
+2010,Census,20002,Bangor,ME,M_00_04,3649.0
+2010,Census,20002,Bangor,ME,M_05_09,3775.0
+2010,Census,20002,Bangor,ME,M_10_14,3734.0
+2010,Census,20002,Bangor,ME,M_15_19,5752.0
+2010,Census,20002,Bangor,ME,M_20_24,7276.0
+2010,Census,20002,Bangor,ME,M_25_29,4390.0
+2010,Census,20002,Bangor,ME,M_30_34,3766.0
+2010,Census,20002,Bangor,ME,M_35_39,3881.0
+2010,Census,20002,Bangor,ME,M_40_44,4307.0
+2010,Census,20002,Bangor,ME,M_45_49,5053.0
+2010,Census,20002,Bangor,ME,M_50_54,5150.0
+2010,Census,20002,Bangor,ME,M_55_59,4699.0
+2010,Census,20002,Bangor,ME,M_60_64,3921.0
+2010,Census,20002,Bangor,ME,M_65_69,2640.0
+2010,Census,20002,Bangor,ME,M_70_74,1862.0
+2010,Census,20002,Bangor,ME,M_75_79,1549.0
+2010,Census,20002,Bangor,ME,M_80_84,1031.0
+2010,Census,20002,Bangor,ME,M_85_110,812.0
+2010,Census,20003,Bar Harbor,ME,F_00_04,253.0
+2010,Census,20003,Bar Harbor,ME,F_05_09,279.0
+2010,Census,20003,Bar Harbor,ME,F_10_14,299.0
+2010,Census,20003,Bar Harbor,ME,F_15_19,307.0
+2010,Census,20003,Bar Harbor,ME,F_20_24,340.0
+2010,Census,20003,Bar Harbor,ME,F_25_29,258.0
+2010,Census,20003,Bar Harbor,ME,F_30_34,277.0
+2010,Census,20003,Bar Harbor,ME,F_35_39,344.0
+2010,Census,20003,Bar Harbor,ME,F_40_44,357.0
+2010,Census,20003,Bar Harbor,ME,F_45_49,443.0
+2010,Census,20003,Bar Harbor,ME,F_50_54,508.0
+2010,Census,20003,Bar Harbor,ME,F_55_59,508.0
+2010,Census,20003,Bar Harbor,ME,F_60_64,479.0
+2010,Census,20003,Bar Harbor,ME,F_65_69,321.0
+2010,Census,20003,Bar Harbor,ME,F_70_74,243.0
+2010,Census,20003,Bar Harbor,ME,F_75_79,206.0
+2010,Census,20003,Bar Harbor,ME,F_80_84,225.0
+2010,Census,20003,Bar Harbor,ME,F_85_110,224.0
+2010,Census,20003,Bar Harbor,ME,M_00_04,237.0
+2010,Census,20003,Bar Harbor,ME,M_05_09,252.0
+2010,Census,20003,Bar Harbor,ME,M_10_14,293.0
+2010,Census,20003,Bar Harbor,ME,M_15_19,309.0
+2010,Census,20003,Bar Harbor,ME,M_20_24,297.0
+2010,Census,20003,Bar Harbor,ME,M_25_29,268.0
+2010,Census,20003,Bar Harbor,ME,M_30_34,257.0
+2010,Census,20003,Bar Harbor,ME,M_35_39,275.0
+2010,Census,20003,Bar Harbor,ME,M_40_44,320.0
+2010,Census,20003,Bar Harbor,ME,M_45_49,415.0
+2010,Census,20003,Bar Harbor,ME,M_50_54,480.0
+2010,Census,20003,Bar Harbor,ME,M_55_59,521.0
+2010,Census,20003,Bar Harbor,ME,M_60_64,439.0
+2010,Census,20003,Bar Harbor,ME,M_65_69,290.0
+2010,Census,20003,Bar Harbor,ME,M_70_74,212.0
+2010,Census,20003,Bar Harbor,ME,M_75_79,177.0
+2010,Census,20003,Bar Harbor,ME,M_80_84,124.0
+2010,Census,20003,Bar Harbor,ME,M_85_110,112.0
+2010,Census,20005,Belfast,ME,F_00_04,526.0
+2010,Census,20005,Belfast,ME,F_05_09,550.0
+2010,Census,20005,Belfast,ME,F_10_14,557.0
+2010,Census,20005,Belfast,ME,F_15_19,575.0
+2010,Census,20005,Belfast,ME,F_20_24,423.0
+2010,Census,20005,Belfast,ME,F_25_29,519.0
+2010,Census,20005,Belfast,ME,F_30_34,573.0
+2010,Census,20005,Belfast,ME,F_35_39,601.0
+2010,Census,20005,Belfast,ME,F_40_44,638.0
+2010,Census,20005,Belfast,ME,F_45_49,830.0
+2010,Census,20005,Belfast,ME,F_50_54,907.0
+2010,Census,20005,Belfast,ME,F_55_59,940.0
+2010,Census,20005,Belfast,ME,F_60_64,865.0
+2010,Census,20005,Belfast,ME,F_65_69,611.0
+2010,Census,20005,Belfast,ME,F_70_74,432.0
+2010,Census,20005,Belfast,ME,F_75_79,362.0
+2010,Census,20005,Belfast,ME,F_80_84,264.0
+2010,Census,20005,Belfast,ME,F_85_110,354.0
+2010,Census,20005,Belfast,ME,M_00_04,544.0
+2010,Census,20005,Belfast,ME,M_05_09,599.0
+2010,Census,20005,Belfast,ME,M_10_14,652.0
+2010,Census,20005,Belfast,ME,M_15_19,601.0
+2010,Census,20005,Belfast,ME,M_20_24,472.0
+2010,Census,20005,Belfast,ME,M_25_29,501.0
+2010,Census,20005,Belfast,ME,M_30_34,552.0
+2010,Census,20005,Belfast,ME,M_35_39,564.0
+2010,Census,20005,Belfast,ME,M_40_44,660.0
+2010,Census,20005,Belfast,ME,M_45_49,703.0
+2010,Census,20005,Belfast,ME,M_50_54,787.0
+2010,Census,20005,Belfast,ME,M_55_59,847.0
+2010,Census,20005,Belfast,ME,M_60_64,798.0
+2010,Census,20005,Belfast,ME,M_65_69,556.0
+2010,Census,20005,Belfast,ME,M_70_74,376.0
+2010,Census,20005,Belfast,ME,M_75_79,284.0
+2010,Census,20005,Belfast,ME,M_80_84,182.0
+2010,Census,20005,Belfast,ME,M_85_110,158.0
+2010,Census,20006,Biddeford,ME,F_00_04,1555.0
+2010,Census,20006,Biddeford,ME,F_05_09,1693.0
+2010,Census,20006,Biddeford,ME,F_10_14,1960.0
+2010,Census,20006,Biddeford,ME,F_15_19,2481.0
+2010,Census,20006,Biddeford,ME,F_20_24,2270.0
+2010,Census,20006,Biddeford,ME,F_25_29,1898.0
+2010,Census,20006,Biddeford,ME,F_30_34,1792.0
+2010,Census,20006,Biddeford,ME,F_35_39,2043.0
+2010,Census,20006,Biddeford,ME,F_40_44,2507.0
+2010,Census,20006,Biddeford,ME,F_45_49,2874.0
+2010,Census,20006,Biddeford,ME,F_50_54,2930.0
+2010,Census,20006,Biddeford,ME,F_55_59,2746.0
+2010,Census,20006,Biddeford,ME,F_60_64,2367.0
+2010,Census,20006,Biddeford,ME,F_65_69,1804.0
+2010,Census,20006,Biddeford,ME,F_70_74,1381.0
+2010,Census,20006,Biddeford,ME,F_75_79,1247.0
+2010,Census,20006,Biddeford,ME,F_80_84,1075.0
+2010,Census,20006,Biddeford,ME,F_85_110,1199.0
+2010,Census,20006,Biddeford,ME,M_00_04,1653.0
+2010,Census,20006,Biddeford,ME,M_05_09,1837.0
+2010,Census,20006,Biddeford,ME,M_10_14,2098.0
+2010,Census,20006,Biddeford,ME,M_15_19,2266.0
+2010,Census,20006,Biddeford,ME,M_20_24,2149.0
+2010,Census,20006,Biddeford,ME,M_25_29,1787.0
+2010,Census,20006,Biddeford,ME,M_30_34,1692.0
+2010,Census,20006,Biddeford,ME,M_35_39,1967.0
+2010,Census,20006,Biddeford,ME,M_40_44,2394.0
+2010,Census,20006,Biddeford,ME,M_45_49,2764.0
+2010,Census,20006,Biddeford,ME,M_50_54,2772.0
+2010,Census,20006,Biddeford,ME,M_55_59,2483.0
+2010,Census,20006,Biddeford,ME,M_60_64,2239.0
+2010,Census,20006,Biddeford,ME,M_65_69,1505.0
+2010,Census,20006,Biddeford,ME,M_70_74,1147.0
+2010,Census,20006,Biddeford,ME,M_75_79,869.0
+2010,Census,20006,Biddeford,ME,M_80_84,657.0
+2010,Census,20006,Biddeford,ME,M_85_110,553.0
+2010,Census,20007,Blue Hill,ME,F_00_04,189.0
+2010,Census,20007,Blue Hill,ME,F_05_09,225.0
+2010,Census,20007,Blue Hill,ME,F_10_14,231.0
+2010,Census,20007,Blue Hill,ME,F_15_19,299.0
+2010,Census,20007,Blue Hill,ME,F_20_24,216.0
+2010,Census,20007,Blue Hill,ME,F_25_29,205.0
+2010,Census,20007,Blue Hill,ME,F_30_34,197.0
+2010,Census,20007,Blue Hill,ME,F_35_39,265.0
+2010,Census,20007,Blue Hill,ME,F_40_44,331.0
+2010,Census,20007,Blue Hill,ME,F_45_49,402.0
+2010,Census,20007,Blue Hill,ME,F_50_54,409.0
+2010,Census,20007,Blue Hill,ME,F_55_59,519.0
+2010,Census,20007,Blue Hill,ME,F_60_64,506.0
+2010,Census,20007,Blue Hill,ME,F_65_69,407.0
+2010,Census,20007,Blue Hill,ME,F_70_74,255.0
+2010,Census,20007,Blue Hill,ME,F_75_79,210.0
+2010,Census,20007,Blue Hill,ME,F_80_84,193.0
+2010,Census,20007,Blue Hill,ME,F_85_110,225.0
+2010,Census,20007,Blue Hill,ME,M_00_04,200.0
+2010,Census,20007,Blue Hill,ME,M_05_09,256.0
+2010,Census,20007,Blue Hill,ME,M_10_14,251.0
+2010,Census,20007,Blue Hill,ME,M_15_19,283.0
+2010,Census,20007,Blue Hill,ME,M_20_24,214.0
+2010,Census,20007,Blue Hill,ME,M_25_29,234.0
+2010,Census,20007,Blue Hill,ME,M_30_34,178.0
+2010,Census,20007,Blue Hill,ME,M_35_39,256.0
+2010,Census,20007,Blue Hill,ME,M_40_44,285.0
+2010,Census,20007,Blue Hill,ME,M_45_49,365.0
+2010,Census,20007,Blue Hill,ME,M_50_54,409.0
+2010,Census,20007,Blue Hill,ME,M_55_59,452.0
+2010,Census,20007,Blue Hill,ME,M_60_64,457.0
+2010,Census,20007,Blue Hill,ME,M_65_69,405.0
+2010,Census,20007,Blue Hill,ME,M_70_74,261.0
+2010,Census,20007,Blue Hill,ME,M_75_79,168.0
+2010,Census,20007,Blue Hill,ME,M_80_84,155.0
+2010,Census,20007,Blue Hill,ME,M_85_110,88.0
+2010,Census,20008,Boothbay Harbor,ME,F_00_04,86.0
+2010,Census,20008,Boothbay Harbor,ME,F_05_09,98.0
+2010,Census,20008,Boothbay Harbor,ME,F_10_14,143.0
+2010,Census,20008,Boothbay Harbor,ME,F_15_19,128.0
+2010,Census,20008,Boothbay Harbor,ME,F_20_24,95.0
+2010,Census,20008,Boothbay Harbor,ME,F_25_29,98.0
+2010,Census,20008,Boothbay Harbor,ME,F_30_34,103.0
+2010,Census,20008,Boothbay Harbor,ME,F_35_39,142.0
+2010,Census,20008,Boothbay Harbor,ME,F_40_44,168.0
+2010,Census,20008,Boothbay Harbor,ME,F_45_49,203.0
+2010,Census,20008,Boothbay Harbor,ME,F_50_54,268.0
+2010,Census,20008,Boothbay Harbor,ME,F_55_59,301.0
+2010,Census,20008,Boothbay Harbor,ME,F_60_64,305.0
+2010,Census,20008,Boothbay Harbor,ME,F_65_69,304.0
+2010,Census,20008,Boothbay Harbor,ME,F_70_74,182.0
+2010,Census,20008,Boothbay Harbor,ME,F_75_79,166.0
+2010,Census,20008,Boothbay Harbor,ME,F_80_84,132.0
+2010,Census,20008,Boothbay Harbor,ME,F_85_110,153.0
+2010,Census,20008,Boothbay Harbor,ME,M_00_04,88.0
+2010,Census,20008,Boothbay Harbor,ME,M_05_09,117.0
+2010,Census,20008,Boothbay Harbor,ME,M_10_14,136.0
+2010,Census,20008,Boothbay Harbor,ME,M_15_19,151.0
+2010,Census,20008,Boothbay Harbor,ME,M_20_24,103.0
+2010,Census,20008,Boothbay Harbor,ME,M_25_29,102.0
+2010,Census,20008,Boothbay Harbor,ME,M_30_34,96.0
+2010,Census,20008,Boothbay Harbor,ME,M_35_39,128.0
+2010,Census,20008,Boothbay Harbor,ME,M_40_44,157.0
+2010,Census,20008,Boothbay Harbor,ME,M_45_49,193.0
+2010,Census,20008,Boothbay Harbor,ME,M_50_54,234.0
+2010,Census,20008,Boothbay Harbor,ME,M_55_59,237.0
+2010,Census,20008,Boothbay Harbor,ME,M_60_64,291.0
+2010,Census,20008,Boothbay Harbor,ME,M_65_69,260.0
+2010,Census,20008,Boothbay Harbor,ME,M_70_74,185.0
+2010,Census,20008,Boothbay Harbor,ME,M_75_79,150.0
+2010,Census,20008,Boothbay Harbor,ME,M_80_84,114.0
+2010,Census,20008,Boothbay Harbor,ME,M_85_110,74.0
+2010,Census,20009,Bridgton,ME,F_00_04,464.0
+2010,Census,20009,Bridgton,ME,F_05_09,516.0
+2010,Census,20009,Bridgton,ME,F_10_14,566.0
+2010,Census,20009,Bridgton,ME,F_15_19,671.0
+2010,Census,20009,Bridgton,ME,F_20_24,388.0
+2010,Census,20009,Bridgton,ME,F_25_29,449.0
+2010,Census,20009,Bridgton,ME,F_30_34,480.0
+2010,Census,20009,Bridgton,ME,F_35_39,552.0
+2010,Census,20009,Bridgton,ME,F_40_44,691.0
+2010,Census,20009,Bridgton,ME,F_45_49,864.0
+2010,Census,20009,Bridgton,ME,F_50_54,964.0
+2010,Census,20009,Bridgton,ME,F_55_59,857.0
+2010,Census,20009,Bridgton,ME,F_60_64,731.0
+2010,Census,20009,Bridgton,ME,F_65_69,549.0
+2010,Census,20009,Bridgton,ME,F_70_74,447.0
+2010,Census,20009,Bridgton,ME,F_75_79,305.0
+2010,Census,20009,Bridgton,ME,F_80_84,203.0
+2010,Census,20009,Bridgton,ME,F_85_110,227.0
+2010,Census,20009,Bridgton,ME,M_00_04,508.0
+2010,Census,20009,Bridgton,ME,M_05_09,573.0
+2010,Census,20009,Bridgton,ME,M_10_14,597.0
+2010,Census,20009,Bridgton,ME,M_15_19,886.0
+2010,Census,20009,Bridgton,ME,M_20_24,390.0
+2010,Census,20009,Bridgton,ME,M_25_29,462.0
+2010,Census,20009,Bridgton,ME,M_30_34,459.0
+2010,Census,20009,Bridgton,ME,M_35_39,495.0
+2010,Census,20009,Bridgton,ME,M_40_44,635.0
+2010,Census,20009,Bridgton,ME,M_45_49,812.0
+2010,Census,20009,Bridgton,ME,M_50_54,910.0
+2010,Census,20009,Bridgton,ME,M_55_59,840.0
+2010,Census,20009,Bridgton,ME,M_60_64,786.0
+2010,Census,20009,Bridgton,ME,M_65_69,535.0
+2010,Census,20009,Bridgton,ME,M_70_74,416.0
+2010,Census,20009,Bridgton,ME,M_75_79,305.0
+2010,Census,20009,Bridgton,ME,M_80_84,205.0
+2010,Census,20009,Bridgton,ME,M_85_110,105.0
+2010,Census,20010,Brunswick,ME,F_00_04,1770.0
+2010,Census,20010,Brunswick,ME,F_05_09,1854.0
+2010,Census,20010,Brunswick,ME,F_10_14,1946.0
+2010,Census,20010,Brunswick,ME,F_15_19,2303.0
+2010,Census,20010,Brunswick,ME,F_20_24,1941.0
+2010,Census,20010,Brunswick,ME,F_25_29,1677.0
+2010,Census,20010,Brunswick,ME,F_30_34,1692.0
+2010,Census,20010,Brunswick,ME,F_35_39,2158.0
+2010,Census,20010,Brunswick,ME,F_40_44,2402.0
+2010,Census,20010,Brunswick,ME,F_45_49,2965.0
+2010,Census,20010,Brunswick,ME,F_50_54,3094.0
+2010,Census,20010,Brunswick,ME,F_55_59,2990.0
+2010,Census,20010,Brunswick,ME,F_60_64,2562.0
+2010,Census,20010,Brunswick,ME,F_65_69,2065.0
+2010,Census,20010,Brunswick,ME,F_70_74,1482.0
+2010,Census,20010,Brunswick,ME,F_75_79,1260.0
+2010,Census,20010,Brunswick,ME,F_80_84,954.0
+2010,Census,20010,Brunswick,ME,F_85_110,1234.0
+2010,Census,20010,Brunswick,ME,M_00_04,1790.0
+2010,Census,20010,Brunswick,ME,M_05_09,1913.0
+2010,Census,20010,Brunswick,ME,M_10_14,2133.0
+2010,Census,20010,Brunswick,ME,M_15_19,2323.0
+2010,Census,20010,Brunswick,ME,M_20_24,2063.0
+2010,Census,20010,Brunswick,ME,M_25_29,1664.0
+2010,Census,20010,Brunswick,ME,M_30_34,1634.0
+2010,Census,20010,Brunswick,ME,M_35_39,1977.0
+2010,Census,20010,Brunswick,ME,M_40_44,2219.0
+2010,Census,20010,Brunswick,ME,M_45_49,2716.0
+2010,Census,20010,Brunswick,ME,M_50_54,2767.0
+2010,Census,20010,Brunswick,ME,M_55_59,2645.0
+2010,Census,20010,Brunswick,ME,M_60_64,2408.0
+2010,Census,20010,Brunswick,ME,M_65_69,1876.0
+2010,Census,20010,Brunswick,ME,M_70_74,1287.0
+2010,Census,20010,Brunswick,ME,M_75_79,973.0
+2010,Census,20010,Brunswick,ME,M_80_84,649.0
+2010,Census,20010,Brunswick,ME,M_85_110,552.0
+2010,Census,20011,Calais,ME,F_00_04,327.0
+2010,Census,20011,Calais,ME,F_05_09,385.0
+2010,Census,20011,Calais,ME,F_10_14,373.0
+2010,Census,20011,Calais,ME,F_15_19,380.0
+2010,Census,20011,Calais,ME,F_20_24,291.0
+2010,Census,20011,Calais,ME,F_25_29,317.0
+2010,Census,20011,Calais,ME,F_30_34,308.0
+2010,Census,20011,Calais,ME,F_35_39,344.0
+2010,Census,20011,Calais,ME,F_40_44,449.0
+2010,Census,20011,Calais,ME,F_45_49,462.0
+2010,Census,20011,Calais,ME,F_50_54,581.0
+2010,Census,20011,Calais,ME,F_55_59,541.0
+2010,Census,20011,Calais,ME,F_60_64,532.0
+2010,Census,20011,Calais,ME,F_65_69,358.0
+2010,Census,20011,Calais,ME,F_70_74,313.0
+2010,Census,20011,Calais,ME,F_75_79,255.0
+2010,Census,20011,Calais,ME,F_80_84,214.0
+2010,Census,20011,Calais,ME,F_85_110,226.0
+2010,Census,20011,Calais,ME,M_00_04,370.0
+2010,Census,20011,Calais,ME,M_05_09,342.0
+2010,Census,20011,Calais,ME,M_10_14,384.0
+2010,Census,20011,Calais,ME,M_15_19,492.0
+2010,Census,20011,Calais,ME,M_20_24,281.0
+2010,Census,20011,Calais,ME,M_25_29,278.0
+2010,Census,20011,Calais,ME,M_30_34,287.0
+2010,Census,20011,Calais,ME,M_35_39,341.0
+2010,Census,20011,Calais,ME,M_40_44,395.0
+2010,Census,20011,Calais,ME,M_45_49,505.0
+2010,Census,20011,Calais,ME,M_50_54,587.0
+2010,Census,20011,Calais,ME,M_55_59,515.0
+2010,Census,20011,Calais,ME,M_60_64,519.0
+2010,Census,20011,Calais,ME,M_65_69,394.0
+2010,Census,20011,Calais,ME,M_70_74,256.0
+2010,Census,20011,Calais,ME,M_75_79,209.0
+2010,Census,20011,Calais,ME,M_80_84,129.0
+2010,Census,20011,Calais,ME,M_85_110,101.0
+2010,Census,20012,Caribou,ME,F_00_04,378.0
+2010,Census,20012,Caribou,ME,F_05_09,400.0
+2010,Census,20012,Caribou,ME,F_10_14,482.0
+2010,Census,20012,Caribou,ME,F_15_19,626.0
+2010,Census,20012,Caribou,ME,F_20_24,412.0
+2010,Census,20012,Caribou,ME,F_25_29,364.0
+2010,Census,20012,Caribou,ME,F_30_34,422.0
+2010,Census,20012,Caribou,ME,F_35_39,525.0
+2010,Census,20012,Caribou,ME,F_40_44,552.0
+2010,Census,20012,Caribou,ME,F_45_49,672.0
+2010,Census,20012,Caribou,ME,F_50_54,664.0
+2010,Census,20012,Caribou,ME,F_55_59,733.0
+2010,Census,20012,Caribou,ME,F_60_64,650.0
+2010,Census,20012,Caribou,ME,F_65_69,555.0
+2010,Census,20012,Caribou,ME,F_70_74,400.0
+2010,Census,20012,Caribou,ME,F_75_79,358.0
+2010,Census,20012,Caribou,ME,F_80_84,304.0
+2010,Census,20012,Caribou,ME,F_85_110,244.0
+2010,Census,20012,Caribou,ME,M_00_04,406.0
+2010,Census,20012,Caribou,ME,M_05_09,443.0
+2010,Census,20012,Caribou,ME,M_10_14,488.0
+2010,Census,20012,Caribou,ME,M_15_19,718.0
+2010,Census,20012,Caribou,ME,M_20_24,512.0
+2010,Census,20012,Caribou,ME,M_25_29,381.0
+2010,Census,20012,Caribou,ME,M_30_34,413.0
+2010,Census,20012,Caribou,ME,M_35_39,415.0
+2010,Census,20012,Caribou,ME,M_40_44,552.0
+2010,Census,20012,Caribou,ME,M_45_49,685.0
+2010,Census,20012,Caribou,ME,M_50_54,679.0
+2010,Census,20012,Caribou,ME,M_55_59,667.0
+2010,Census,20012,Caribou,ME,M_60_64,637.0
+2010,Census,20012,Caribou,ME,M_65_69,534.0
+2010,Census,20012,Caribou,ME,M_70_74,379.0
+2010,Census,20012,Caribou,ME,M_75_79,293.0
+2010,Census,20012,Caribou,ME,M_80_84,213.0
+2010,Census,20012,Caribou,ME,M_85_110,109.0
+2010,Census,20013,Damariscotta,ME,F_00_04,236.0
+2010,Census,20013,Damariscotta,ME,F_05_09,242.0
+2010,Census,20013,Damariscotta,ME,F_10_14,290.0
+2010,Census,20013,Damariscotta,ME,F_15_19,263.0
+2010,Census,20013,Damariscotta,ME,F_20_24,193.0
+2010,Census,20013,Damariscotta,ME,F_25_29,210.0
+2010,Census,20013,Damariscotta,ME,F_30_34,241.0
+2010,Census,20013,Damariscotta,ME,F_35_39,298.0
+2010,Census,20013,Damariscotta,ME,F_40_44,332.0
+2010,Census,20013,Damariscotta,ME,F_45_49,409.0
+2010,Census,20013,Damariscotta,ME,F_50_54,496.0
+2010,Census,20013,Damariscotta,ME,F_55_59,528.0
+2010,Census,20013,Damariscotta,ME,F_60_64,520.0
+2010,Census,20013,Damariscotta,ME,F_65_69,448.0
+2010,Census,20013,Damariscotta,ME,F_70_74,329.0
+2010,Census,20013,Damariscotta,ME,F_75_79,261.0
+2010,Census,20013,Damariscotta,ME,F_80_84,237.0
+2010,Census,20013,Damariscotta,ME,F_85_110,340.0
+2010,Census,20013,Damariscotta,ME,M_00_04,251.0
+2010,Census,20013,Damariscotta,ME,M_05_09,294.0
+2010,Census,20013,Damariscotta,ME,M_10_14,321.0
+2010,Census,20013,Damariscotta,ME,M_15_19,336.0
+2010,Census,20013,Damariscotta,ME,M_20_24,211.0
+2010,Census,20013,Damariscotta,ME,M_25_29,208.0
+2010,Census,20013,Damariscotta,ME,M_30_34,222.0
+2010,Census,20013,Damariscotta,ME,M_35_39,295.0
+2010,Census,20013,Damariscotta,ME,M_40_44,296.0
+2010,Census,20013,Damariscotta,ME,M_45_49,417.0
+2010,Census,20013,Damariscotta,ME,M_50_54,395.0
+2010,Census,20013,Damariscotta,ME,M_55_59,476.0
+2010,Census,20013,Damariscotta,ME,M_60_64,475.0
+2010,Census,20013,Damariscotta,ME,M_65_69,407.0
+2010,Census,20013,Damariscotta,ME,M_70_74,279.0
+2010,Census,20013,Damariscotta,ME,M_75_79,244.0
+2010,Census,20013,Damariscotta,ME,M_80_84,147.0
+2010,Census,20013,Damariscotta,ME,M_85_110,168.0
+2010,Census,20014,Dover-Foxcroft,ME,F_00_04,420.0
+2010,Census,20014,Dover-Foxcroft,ME,F_05_09,524.0
+2010,Census,20014,Dover-Foxcroft,ME,F_10_14,527.0
+2010,Census,20014,Dover-Foxcroft,ME,F_15_19,543.0
+2010,Census,20014,Dover-Foxcroft,ME,F_20_24,414.0
+2010,Census,20014,Dover-Foxcroft,ME,F_25_29,407.0
+2010,Census,20014,Dover-Foxcroft,ME,F_30_34,429.0
+2010,Census,20014,Dover-Foxcroft,ME,F_35_39,518.0
+2010,Census,20014,Dover-Foxcroft,ME,F_40_44,644.0
+2010,Census,20014,Dover-Foxcroft,ME,F_45_49,723.0
+2010,Census,20014,Dover-Foxcroft,ME,F_50_54,829.0
+2010,Census,20014,Dover-Foxcroft,ME,F_55_59,753.0
+2010,Census,20014,Dover-Foxcroft,ME,F_60_64,679.0
+2010,Census,20014,Dover-Foxcroft,ME,F_65_69,549.0
+2010,Census,20014,Dover-Foxcroft,ME,F_70_74,413.0
+2010,Census,20014,Dover-Foxcroft,ME,F_75_79,343.0
+2010,Census,20014,Dover-Foxcroft,ME,F_80_84,292.0
+2010,Census,20014,Dover-Foxcroft,ME,F_85_110,309.0
+2010,Census,20014,Dover-Foxcroft,ME,M_00_04,448.0
+2010,Census,20014,Dover-Foxcroft,ME,M_05_09,474.0
+2010,Census,20014,Dover-Foxcroft,ME,M_10_14,586.0
+2010,Census,20014,Dover-Foxcroft,ME,M_15_19,618.0
+2010,Census,20014,Dover-Foxcroft,ME,M_20_24,347.0
+2010,Census,20014,Dover-Foxcroft,ME,M_25_29,389.0
+2010,Census,20014,Dover-Foxcroft,ME,M_30_34,426.0
+2010,Census,20014,Dover-Foxcroft,ME,M_35_39,526.0
+2010,Census,20014,Dover-Foxcroft,ME,M_40_44,570.0
+2010,Census,20014,Dover-Foxcroft,ME,M_45_49,707.0
+2010,Census,20014,Dover-Foxcroft,ME,M_50_54,801.0
+2010,Census,20014,Dover-Foxcroft,ME,M_55_59,745.0
+2010,Census,20014,Dover-Foxcroft,ME,M_60_64,730.0
+2010,Census,20014,Dover-Foxcroft,ME,M_65_69,587.0
+2010,Census,20014,Dover-Foxcroft,ME,M_70_74,391.0
+2010,Census,20014,Dover-Foxcroft,ME,M_75_79,257.0
+2010,Census,20014,Dover-Foxcroft,ME,M_80_84,229.0
+2010,Census,20014,Dover-Foxcroft,ME,M_85_110,160.0
+2010,Census,20015,Ellsworth,ME,F_00_04,689.0
+2010,Census,20015,Ellsworth,ME,F_05_09,610.0
+2010,Census,20015,Ellsworth,ME,F_10_14,661.0
+2010,Census,20015,Ellsworth,ME,F_15_19,674.0
+2010,Census,20015,Ellsworth,ME,F_20_24,585.0
+2010,Census,20015,Ellsworth,ME,F_25_29,639.0
+2010,Census,20015,Ellsworth,ME,F_30_34,681.0
+2010,Census,20015,Ellsworth,ME,F_35_39,725.0
+2010,Census,20015,Ellsworth,ME,F_40_44,854.0
+2010,Census,20015,Ellsworth,ME,F_45_49,1034.0
+2010,Census,20015,Ellsworth,ME,F_50_54,1106.0
+2010,Census,20015,Ellsworth,ME,F_55_59,1048.0
+2010,Census,20015,Ellsworth,ME,F_60_64,1001.0
+2010,Census,20015,Ellsworth,ME,F_65_69,733.0
+2010,Census,20015,Ellsworth,ME,F_70_74,533.0
+2010,Census,20015,Ellsworth,ME,F_75_79,464.0
+2010,Census,20015,Ellsworth,ME,F_80_84,335.0
+2010,Census,20015,Ellsworth,ME,F_85_110,328.0
+2010,Census,20015,Ellsworth,ME,M_00_04,668.0
+2010,Census,20015,Ellsworth,ME,M_05_09,656.0
+2010,Census,20015,Ellsworth,ME,M_10_14,683.0
+2010,Census,20015,Ellsworth,ME,M_15_19,738.0
+2010,Census,20015,Ellsworth,ME,M_20_24,585.0
+2010,Census,20015,Ellsworth,ME,M_25_29,628.0
+2010,Census,20015,Ellsworth,ME,M_30_34,640.0
+2010,Census,20015,Ellsworth,ME,M_35_39,737.0
+2010,Census,20015,Ellsworth,ME,M_40_44,860.0
+2010,Census,20015,Ellsworth,ME,M_45_49,974.0
+2010,Census,20015,Ellsworth,ME,M_50_54,1035.0
+2010,Census,20015,Ellsworth,ME,M_55_59,1018.0
+2010,Census,20015,Ellsworth,ME,M_60_64,982.0
+2010,Census,20015,Ellsworth,ME,M_65_69,670.0
+2010,Census,20015,Ellsworth,ME,M_70_74,461.0
+2010,Census,20015,Ellsworth,ME,M_75_79,390.0
+2010,Census,20015,Ellsworth,ME,M_80_84,249.0
+2010,Census,20015,Ellsworth,ME,M_85_110,161.0
+2010,Census,20016,Farmington,ME,F_00_04,949.0
+2010,Census,20016,Farmington,ME,F_05_09,1008.0
+2010,Census,20016,Farmington,ME,F_10_14,1095.0
+2010,Census,20016,Farmington,ME,F_15_19,1483.0
+2010,Census,20016,Farmington,ME,F_20_24,1450.0
+2010,Census,20016,Farmington,ME,F_25_29,970.0
+2010,Census,20016,Farmington,ME,F_30_34,988.0
+2010,Census,20016,Farmington,ME,F_35_39,1051.0
+2010,Census,20016,Farmington,ME,F_40_44,1274.0
+2010,Census,20016,Farmington,ME,F_45_49,1591.0
+2010,Census,20016,Farmington,ME,F_50_54,1700.0
+2010,Census,20016,Farmington,ME,F_55_59,1565.0
+2010,Census,20016,Farmington,ME,F_60_64,1278.0
+2010,Census,20016,Farmington,ME,F_65_69,1070.0
+2010,Census,20016,Farmington,ME,F_70_74,781.0
+2010,Census,20016,Farmington,ME,F_75_79,624.0
+2010,Census,20016,Farmington,ME,F_80_84,467.0
+2010,Census,20016,Farmington,ME,F_85_110,498.0
+2010,Census,20016,Farmington,ME,M_00_04,1015.0
+2010,Census,20016,Farmington,ME,M_05_09,1037.0
+2010,Census,20016,Farmington,ME,M_10_14,1200.0
+2010,Census,20016,Farmington,ME,M_15_19,1398.0
+2010,Census,20016,Farmington,ME,M_20_24,1303.0
+2010,Census,20016,Farmington,ME,M_25_29,948.0
+2010,Census,20016,Farmington,ME,M_30_34,918.0
+2010,Census,20016,Farmington,ME,M_35_39,1025.0
+2010,Census,20016,Farmington,ME,M_40_44,1160.0
+2010,Census,20016,Farmington,ME,M_45_49,1540.0
+2010,Census,20016,Farmington,ME,M_50_54,1652.0
+2010,Census,20016,Farmington,ME,M_55_59,1533.0
+2010,Census,20016,Farmington,ME,M_60_64,1318.0
+2010,Census,20016,Farmington,ME,M_65_69,1059.0
+2010,Census,20016,Farmington,ME,M_70_74,770.0
+2010,Census,20016,Farmington,ME,M_75_79,577.0
+2010,Census,20016,Farmington,ME,M_80_84,369.0
+2010,Census,20016,Farmington,ME,M_85_110,241.0
+2010,Census,20017,Fort Kent,ME,F_00_04,245.0
+2010,Census,20017,Fort Kent,ME,F_05_09,294.0
+2010,Census,20017,Fort Kent,ME,F_10_14,350.0
+2010,Census,20017,Fort Kent,ME,F_15_19,410.0
+2010,Census,20017,Fort Kent,ME,F_20_24,291.0
+2010,Census,20017,Fort Kent,ME,F_25_29,259.0
+2010,Census,20017,Fort Kent,ME,F_30_34,281.0
+2010,Census,20017,Fort Kent,ME,F_35_39,337.0
+2010,Census,20017,Fort Kent,ME,F_40_44,422.0
+2010,Census,20017,Fort Kent,ME,F_45_49,520.0
+2010,Census,20017,Fort Kent,ME,F_50_54,553.0
+2010,Census,20017,Fort Kent,ME,F_55_59,540.0
+2010,Census,20017,Fort Kent,ME,F_60_64,511.0
+2010,Census,20017,Fort Kent,ME,F_65_69,403.0
+2010,Census,20017,Fort Kent,ME,F_70_74,363.0
+2010,Census,20017,Fort Kent,ME,F_75_79,290.0
+2010,Census,20017,Fort Kent,ME,F_80_84,278.0
+2010,Census,20017,Fort Kent,ME,F_85_110,218.0
+2010,Census,20017,Fort Kent,ME,M_00_04,269.0
+2010,Census,20017,Fort Kent,ME,M_05_09,320.0
+2010,Census,20017,Fort Kent,ME,M_10_14,386.0
+2010,Census,20017,Fort Kent,ME,M_15_19,394.0
+2010,Census,20017,Fort Kent,ME,M_20_24,319.0
+2010,Census,20017,Fort Kent,ME,M_25_29,240.0
+2010,Census,20017,Fort Kent,ME,M_30_34,263.0
+2010,Census,20017,Fort Kent,ME,M_35_39,348.0
+2010,Census,20017,Fort Kent,ME,M_40_44,431.0
+2010,Census,20017,Fort Kent,ME,M_45_49,538.0
+2010,Census,20017,Fort Kent,ME,M_50_54,582.0
+2010,Census,20017,Fort Kent,ME,M_55_59,540.0
+2010,Census,20017,Fort Kent,ME,M_60_64,527.0
+2010,Census,20017,Fort Kent,ME,M_65_69,396.0
+2010,Census,20017,Fort Kent,ME,M_70_74,342.0
+2010,Census,20017,Fort Kent,ME,M_75_79,253.0
+2010,Census,20017,Fort Kent,ME,M_80_84,183.0
+2010,Census,20017,Fort Kent,ME,M_85_110,96.0
+2010,Census,20018,Houlton,ME,F_00_04,443.0
+2010,Census,20018,Houlton,ME,F_05_09,467.0
+2010,Census,20018,Houlton,ME,F_10_14,500.0
+2010,Census,20018,Houlton,ME,F_15_19,502.0
+2010,Census,20018,Houlton,ME,F_20_24,370.0
+2010,Census,20018,Houlton,ME,F_25_29,400.0
+2010,Census,20018,Houlton,ME,F_30_34,422.0
+2010,Census,20018,Houlton,ME,F_35_39,471.0
+2010,Census,20018,Houlton,ME,F_40_44,586.0
+2010,Census,20018,Houlton,ME,F_45_49,696.0
+2010,Census,20018,Houlton,ME,F_50_54,686.0
+2010,Census,20018,Houlton,ME,F_55_59,719.0
+2010,Census,20018,Houlton,ME,F_60_64,592.0
+2010,Census,20018,Houlton,ME,F_65_69,453.0
+2010,Census,20018,Houlton,ME,F_70_74,392.0
+2010,Census,20018,Houlton,ME,F_75_79,364.0
+2010,Census,20018,Houlton,ME,F_80_84,268.0
+2010,Census,20018,Houlton,ME,F_85_110,354.0
+2010,Census,20018,Houlton,ME,M_00_04,482.0
+2010,Census,20018,Houlton,ME,M_05_09,489.0
+2010,Census,20018,Houlton,ME,M_10_14,558.0
+2010,Census,20018,Houlton,ME,M_15_19,564.0
+2010,Census,20018,Houlton,ME,M_20_24,408.0
+2010,Census,20018,Houlton,ME,M_25_29,407.0
+2010,Census,20018,Houlton,ME,M_30_34,405.0
+2010,Census,20018,Houlton,ME,M_35_39,422.0
+2010,Census,20018,Houlton,ME,M_40_44,550.0
+2010,Census,20018,Houlton,ME,M_45_49,707.0
+2010,Census,20018,Houlton,ME,M_50_54,707.0
+2010,Census,20018,Houlton,ME,M_55_59,656.0
+2010,Census,20018,Houlton,ME,M_60_64,643.0
+2010,Census,20018,Houlton,ME,M_65_69,439.0
+2010,Census,20018,Houlton,ME,M_70_74,313.0
+2010,Census,20018,Houlton,ME,M_75_79,296.0
+2010,Census,20018,Houlton,ME,M_80_84,209.0
+2010,Census,20018,Houlton,ME,M_85_110,137.0
+2010,Census,20019,Lewiston,ME,F_00_04,3664.0
+2010,Census,20019,Lewiston,ME,F_05_09,3543.0
+2010,Census,20019,Lewiston,ME,F_10_14,3530.0
+2010,Census,20019,Lewiston,ME,F_15_19,3820.0
+2010,Census,20019,Lewiston,ME,F_20_24,3756.0
+2010,Census,20019,Lewiston,ME,F_25_29,3614.0
+2010,Census,20019,Lewiston,ME,F_30_34,3650.0
+2010,Census,20019,Lewiston,ME,F_35_39,3755.0
+2010,Census,20019,Lewiston,ME,F_40_44,4287.0
+2010,Census,20019,Lewiston,ME,F_45_49,4896.0
+2010,Census,20019,Lewiston,ME,F_50_54,4719.0
+2010,Census,20019,Lewiston,ME,F_55_59,4134.0
+2010,Census,20019,Lewiston,ME,F_60_64,3626.0
+2010,Census,20019,Lewiston,ME,F_65_69,2534.0
+2010,Census,20019,Lewiston,ME,F_70_74,1863.0
+2010,Census,20019,Lewiston,ME,F_75_79,1786.0
+2010,Census,20019,Lewiston,ME,F_80_84,1431.0
+2010,Census,20019,Lewiston,ME,F_85_110,1584.0
+2010,Census,20019,Lewiston,ME,M_00_04,3823.0
+2010,Census,20019,Lewiston,ME,M_05_09,3689.0
+2010,Census,20019,Lewiston,ME,M_10_14,3762.0
+2010,Census,20019,Lewiston,ME,M_15_19,4246.0
+2010,Census,20019,Lewiston,ME,M_20_24,3639.0
+2010,Census,20019,Lewiston,ME,M_25_29,3357.0
+2010,Census,20019,Lewiston,ME,M_30_34,3522.0
+2010,Census,20019,Lewiston,ME,M_35_39,3722.0
+2010,Census,20019,Lewiston,ME,M_40_44,4172.0
+2010,Census,20019,Lewiston,ME,M_45_49,4850.0
+2010,Census,20019,Lewiston,ME,M_50_54,4723.0
+2010,Census,20019,Lewiston,ME,M_55_59,4069.0
+2010,Census,20019,Lewiston,ME,M_60_64,3549.0
+2010,Census,20019,Lewiston,ME,M_65_69,2350.0
+2010,Census,20019,Lewiston,ME,M_70_74,1734.0
+2010,Census,20019,Lewiston,ME,M_75_79,1317.0
+2010,Census,20019,Lewiston,ME,M_80_84,877.0
+2010,Census,20019,Lewiston,ME,M_85_110,681.0
+2010,Census,20020,Lincoln,ME,F_00_04,342.0
+2010,Census,20020,Lincoln,ME,F_05_09,366.0
+2010,Census,20020,Lincoln,ME,F_10_14,420.0
+2010,Census,20020,Lincoln,ME,F_15_19,449.0
+2010,Census,20020,Lincoln,ME,F_20_24,303.0
+2010,Census,20020,Lincoln,ME,F_25_29,285.0
+2010,Census,20020,Lincoln,ME,F_30_34,369.0
+2010,Census,20020,Lincoln,ME,F_35_39,356.0
+2010,Census,20020,Lincoln,ME,F_40_44,477.0
+2010,Census,20020,Lincoln,ME,F_45_49,593.0
+2010,Census,20020,Lincoln,ME,F_50_54,635.0
+2010,Census,20020,Lincoln,ME,F_55_59,546.0
+2010,Census,20020,Lincoln,ME,F_60_64,472.0
+2010,Census,20020,Lincoln,ME,F_65_69,410.0
+2010,Census,20020,Lincoln,ME,F_70_74,330.0
+2010,Census,20020,Lincoln,ME,F_75_79,246.0
+2010,Census,20020,Lincoln,ME,F_80_84,179.0
+2010,Census,20020,Lincoln,ME,F_85_110,152.0
+2010,Census,20020,Lincoln,ME,M_00_04,360.0
+2010,Census,20020,Lincoln,ME,M_05_09,362.0
+2010,Census,20020,Lincoln,ME,M_10_14,421.0
+2010,Census,20020,Lincoln,ME,M_15_19,515.0
+2010,Census,20020,Lincoln,ME,M_20_24,339.0
+2010,Census,20020,Lincoln,ME,M_25_29,316.0
+2010,Census,20020,Lincoln,ME,M_30_34,307.0
+2010,Census,20020,Lincoln,ME,M_35_39,370.0
+2010,Census,20020,Lincoln,ME,M_40_44,433.0
+2010,Census,20020,Lincoln,ME,M_45_49,572.0
+2010,Census,20020,Lincoln,ME,M_50_54,673.0
+2010,Census,20020,Lincoln,ME,M_55_59,563.0
+2010,Census,20020,Lincoln,ME,M_60_64,501.0
+2010,Census,20020,Lincoln,ME,M_65_69,385.0
+2010,Census,20020,Lincoln,ME,M_70_74,323.0
+2010,Census,20020,Lincoln,ME,M_75_79,237.0
+2010,Census,20020,Lincoln,ME,M_80_84,156.0
+2010,Census,20020,Lincoln,ME,M_85_110,86.0
+2010,Census,20021,Machias,ME,F_00_04,358.0
+2010,Census,20021,Machias,ME,F_05_09,395.0
+2010,Census,20021,Machias,ME,F_10_14,369.0
+2010,Census,20021,Machias,ME,F_15_19,492.0
+2010,Census,20021,Machias,ME,F_20_24,386.0
+2010,Census,20021,Machias,ME,F_25_29,387.0
+2010,Census,20021,Machias,ME,F_30_34,392.0
+2010,Census,20021,Machias,ME,F_35_39,380.0
+2010,Census,20021,Machias,ME,F_40_44,468.0
+2010,Census,20021,Machias,ME,F_45_49,557.0
+2010,Census,20021,Machias,ME,F_50_54,625.0
+2010,Census,20021,Machias,ME,F_55_59,633.0
+2010,Census,20021,Machias,ME,F_60_64,592.0
+2010,Census,20021,Machias,ME,F_65_69,504.0
+2010,Census,20021,Machias,ME,F_70_74,372.0
+2010,Census,20021,Machias,ME,F_75_79,301.0
+2010,Census,20021,Machias,ME,F_80_84,210.0
+2010,Census,20021,Machias,ME,F_85_110,239.0
+2010,Census,20021,Machias,ME,M_00_04,364.0
+2010,Census,20021,Machias,ME,M_05_09,409.0
+2010,Census,20021,Machias,ME,M_10_14,413.0
+2010,Census,20021,Machias,ME,M_15_19,470.0
+2010,Census,20021,Machias,ME,M_20_24,414.0
+2010,Census,20021,Machias,ME,M_25_29,396.0
+2010,Census,20021,Machias,ME,M_30_34,442.0
+2010,Census,20021,Machias,ME,M_35_39,417.0
+2010,Census,20021,Machias,ME,M_40_44,436.0
+2010,Census,20021,Machias,ME,M_45_49,558.0
+2010,Census,20021,Machias,ME,M_50_54,608.0
+2010,Census,20021,Machias,ME,M_55_59,616.0
+2010,Census,20021,Machias,ME,M_60_64,623.0
+2010,Census,20021,Machias,ME,M_65_69,471.0
+2010,Census,20021,Machias,ME,M_70_74,344.0
+2010,Census,20021,Machias,ME,M_75_79,267.0
+2010,Census,20021,Machias,ME,M_80_84,166.0
+2010,Census,20021,Machias,ME,M_85_110,124.0
+2010,Census,20022,Millinocket,ME,F_00_04,174.0
+2010,Census,20022,Millinocket,ME,F_05_09,214.0
+2010,Census,20022,Millinocket,ME,F_10_14,238.0
+2010,Census,20022,Millinocket,ME,F_15_19,253.0
+2010,Census,20022,Millinocket,ME,F_20_24,178.0
+2010,Census,20022,Millinocket,ME,F_25_29,178.0
+2010,Census,20022,Millinocket,ME,F_30_34,163.0
+2010,Census,20022,Millinocket,ME,F_35_39,246.0
+2010,Census,20022,Millinocket,ME,F_40_44,294.0
+2010,Census,20022,Millinocket,ME,F_45_49,395.0
+2010,Census,20022,Millinocket,ME,F_50_54,503.0
+2010,Census,20022,Millinocket,ME,F_55_59,453.0
+2010,Census,20022,Millinocket,ME,F_60_64,370.0
+2010,Census,20022,Millinocket,ME,F_65_69,297.0
+2010,Census,20022,Millinocket,ME,F_70_74,264.0
+2010,Census,20022,Millinocket,ME,F_75_79,246.0
+2010,Census,20022,Millinocket,ME,F_80_84,187.0
+2010,Census,20022,Millinocket,ME,F_85_110,158.0
+2010,Census,20022,Millinocket,ME,M_00_04,205.0
+2010,Census,20022,Millinocket,ME,M_05_09,214.0
+2010,Census,20022,Millinocket,ME,M_10_14,256.0
+2010,Census,20022,Millinocket,ME,M_15_19,276.0
+2010,Census,20022,Millinocket,ME,M_20_24,189.0
+2010,Census,20022,Millinocket,ME,M_25_29,175.0
+2010,Census,20022,Millinocket,ME,M_30_34,176.0
+2010,Census,20022,Millinocket,ME,M_35_39,225.0
+2010,Census,20022,Millinocket,ME,M_40_44,283.0
+2010,Census,20022,Millinocket,ME,M_45_49,355.0
+2010,Census,20022,Millinocket,ME,M_50_54,484.0
+2010,Census,20022,Millinocket,ME,M_55_59,507.0
+2010,Census,20022,Millinocket,ME,M_60_64,426.0
+2010,Census,20022,Millinocket,ME,M_65_69,301.0
+2010,Census,20022,Millinocket,ME,M_70_74,232.0
+2010,Census,20022,Millinocket,ME,M_75_79,180.0
+2010,Census,20022,Millinocket,ME,M_80_84,165.0
+2010,Census,20022,Millinocket,ME,M_85_110,90.0
+2010,Census,20023,Norway,ME,F_00_04,678.0
+2010,Census,20023,Norway,ME,F_05_09,739.0
+2010,Census,20023,Norway,ME,F_10_14,767.0
+2010,Census,20023,Norway,ME,F_15_19,726.0
+2010,Census,20023,Norway,ME,F_20_24,611.0
+2010,Census,20023,Norway,ME,F_25_29,709.0
+2010,Census,20023,Norway,ME,F_30_34,707.0
+2010,Census,20023,Norway,ME,F_35_39,780.0
+2010,Census,20023,Norway,ME,F_40_44,904.0
+2010,Census,20023,Norway,ME,F_45_49,1033.0
+2010,Census,20023,Norway,ME,F_50_54,1183.0
+2010,Census,20023,Norway,ME,F_55_59,1022.0
+2010,Census,20023,Norway,ME,F_60_64,895.0
+2010,Census,20023,Norway,ME,F_65_69,716.0
+2010,Census,20023,Norway,ME,F_70_74,551.0
+2010,Census,20023,Norway,ME,F_75_79,489.0
+2010,Census,20023,Norway,ME,F_80_84,351.0
+2010,Census,20023,Norway,ME,F_85_110,413.0
+2010,Census,20023,Norway,ME,M_00_04,732.0
+2010,Census,20023,Norway,ME,M_05_09,776.0
+2010,Census,20023,Norway,ME,M_10_14,885.0
+2010,Census,20023,Norway,ME,M_15_19,794.0
+2010,Census,20023,Norway,ME,M_20_24,650.0
+2010,Census,20023,Norway,ME,M_25_29,632.0
+2010,Census,20023,Norway,ME,M_30_34,742.0
+2010,Census,20023,Norway,ME,M_35_39,726.0
+2010,Census,20023,Norway,ME,M_40_44,899.0
+2010,Census,20023,Norway,ME,M_45_49,1102.0
+2010,Census,20023,Norway,ME,M_50_54,1041.0
+2010,Census,20023,Norway,ME,M_55_59,1014.0
+2010,Census,20023,Norway,ME,M_60_64,951.0
+2010,Census,20023,Norway,ME,M_65_69,689.0
+2010,Census,20023,Norway,ME,M_70_74,493.0
+2010,Census,20023,Norway,ME,M_75_79,385.0
+2010,Census,20023,Norway,ME,M_80_84,267.0
+2010,Census,20023,Norway,ME,M_85_110,219.0
+2010,Census,20024,Pittsfield,ME,F_00_04,511.0
+2010,Census,20024,Pittsfield,ME,F_05_09,593.0
+2010,Census,20024,Pittsfield,ME,F_10_14,602.0
+2010,Census,20024,Pittsfield,ME,F_15_19,636.0
+2010,Census,20024,Pittsfield,ME,F_20_24,477.0
+2010,Census,20024,Pittsfield,ME,F_25_29,512.0
+2010,Census,20024,Pittsfield,ME,F_30_34,547.0
+2010,Census,20024,Pittsfield,ME,F_35_39,561.0
+2010,Census,20024,Pittsfield,ME,F_40_44,686.0
+2010,Census,20024,Pittsfield,ME,F_45_49,799.0
+2010,Census,20024,Pittsfield,ME,F_50_54,799.0
+2010,Census,20024,Pittsfield,ME,F_55_59,723.0
+2010,Census,20024,Pittsfield,ME,F_60_64,618.0
+2010,Census,20024,Pittsfield,ME,F_65_69,503.0
+2010,Census,20024,Pittsfield,ME,F_70_74,376.0
+2010,Census,20024,Pittsfield,ME,F_75_79,275.0
+2010,Census,20024,Pittsfield,ME,F_80_84,224.0
+2010,Census,20024,Pittsfield,ME,F_85_110,211.0
+2010,Census,20024,Pittsfield,ME,M_00_04,570.0
+2010,Census,20024,Pittsfield,ME,M_05_09,549.0
+2010,Census,20024,Pittsfield,ME,M_10_14,640.0
+2010,Census,20024,Pittsfield,ME,M_15_19,681.0
+2010,Census,20024,Pittsfield,ME,M_20_24,444.0
+2010,Census,20024,Pittsfield,ME,M_25_29,491.0
+2010,Census,20024,Pittsfield,ME,M_30_34,497.0
+2010,Census,20024,Pittsfield,ME,M_35_39,585.0
+2010,Census,20024,Pittsfield,ME,M_40_44,669.0
+2010,Census,20024,Pittsfield,ME,M_45_49,757.0
+2010,Census,20024,Pittsfield,ME,M_50_54,789.0
+2010,Census,20024,Pittsfield,ME,M_55_59,669.0
+2010,Census,20024,Pittsfield,ME,M_60_64,620.0
+2010,Census,20024,Pittsfield,ME,M_65_69,471.0
+2010,Census,20024,Pittsfield,ME,M_70_74,337.0
+2010,Census,20024,Pittsfield,ME,M_75_79,258.0
+2010,Census,20024,Pittsfield,ME,M_80_84,161.0
+2010,Census,20024,Pittsfield,ME,M_85_110,98.0
+2010,Census,20025,Portland,ME,F_00_04,6608.0
+2010,Census,20025,Portland,ME,F_05_09,7288.0
+2010,Census,20025,Portland,ME,F_10_14,7815.0
+2010,Census,20025,Portland,ME,F_15_19,8075.0
+2010,Census,20025,Portland,ME,F_20_24,7977.0
+2010,Census,20025,Portland,ME,F_25_29,8263.0
+2010,Census,20025,Portland,ME,F_30_34,7918.0
+2010,Census,20025,Portland,ME,F_35_39,8687.0
+2010,Census,20025,Portland,ME,F_40_44,9720.0
+2010,Census,20025,Portland,ME,F_45_49,10896.0
+2010,Census,20025,Portland,ME,F_50_54,10751.0
+2010,Census,20025,Portland,ME,F_55_59,9731.0
+2010,Census,20025,Portland,ME,F_60_64,7871.0
+2010,Census,20025,Portland,ME,F_65_69,5527.0
+2010,Census,20025,Portland,ME,F_70_74,4055.0
+2010,Census,20025,Portland,ME,F_75_79,3488.0
+2010,Census,20025,Portland,ME,F_80_84,3284.0
+2010,Census,20025,Portland,ME,F_85_110,3872.0
+2010,Census,20025,Portland,ME,M_00_04,7061.0
+2010,Census,20025,Portland,ME,M_05_09,7896.0
+2010,Census,20025,Portland,ME,M_10_14,8035.0
+2010,Census,20025,Portland,ME,M_15_19,8502.0
+2010,Census,20025,Portland,ME,M_20_24,7895.0
+2010,Census,20025,Portland,ME,M_25_29,8327.0
+2010,Census,20025,Portland,ME,M_30_34,7838.0
+2010,Census,20025,Portland,ME,M_35_39,8436.0
+2010,Census,20025,Portland,ME,M_40_44,9534.0
+2010,Census,20025,Portland,ME,M_45_49,10595.0
+2010,Census,20025,Portland,ME,M_50_54,10123.0
+2010,Census,20025,Portland,ME,M_55_59,8979.0
+2010,Census,20025,Portland,ME,M_60_64,7592.0
+2010,Census,20025,Portland,ME,M_65_69,4959.0
+2010,Census,20025,Portland,ME,M_70_74,3327.0
+2010,Census,20025,Portland,ME,M_75_79,2539.0
+2010,Census,20025,Portland,ME,M_80_84,1950.0
+2010,Census,20025,Portland,ME,M_85_110,1678.0
+2010,Census,20026,Presque Isle,ME,F_00_04,623.0
+2010,Census,20026,Presque Isle,ME,F_05_09,694.0
+2010,Census,20026,Presque Isle,ME,F_10_14,779.0
+2010,Census,20026,Presque Isle,ME,F_15_19,771.0
+2010,Census,20026,Presque Isle,ME,F_20_24,766.0
+2010,Census,20026,Presque Isle,ME,F_25_29,674.0
+2010,Census,20026,Presque Isle,ME,F_30_34,653.0
+2010,Census,20026,Presque Isle,ME,F_35_39,714.0
+2010,Census,20026,Presque Isle,ME,F_40_44,788.0
+2010,Census,20026,Presque Isle,ME,F_45_49,951.0
+2010,Census,20026,Presque Isle,ME,F_50_54,1010.0
+2010,Census,20026,Presque Isle,ME,F_55_59,977.0
+2010,Census,20026,Presque Isle,ME,F_60_64,824.0
+2010,Census,20026,Presque Isle,ME,F_65_69,637.0
+2010,Census,20026,Presque Isle,ME,F_70_74,564.0
+2010,Census,20026,Presque Isle,ME,F_75_79,475.0
+2010,Census,20026,Presque Isle,ME,F_80_84,394.0
+2010,Census,20026,Presque Isle,ME,F_85_110,403.0
+2010,Census,20026,Presque Isle,ME,M_00_04,665.0
+2010,Census,20026,Presque Isle,ME,M_05_09,720.0
+2010,Census,20026,Presque Isle,ME,M_10_14,698.0
+2010,Census,20026,Presque Isle,ME,M_15_19,834.0
+2010,Census,20026,Presque Isle,ME,M_20_24,771.0
+2010,Census,20026,Presque Isle,ME,M_25_29,680.0
+2010,Census,20026,Presque Isle,ME,M_30_34,678.0
+2010,Census,20026,Presque Isle,ME,M_35_39,707.0
+2010,Census,20026,Presque Isle,ME,M_40_44,858.0
+2010,Census,20026,Presque Isle,ME,M_45_49,908.0
+2010,Census,20026,Presque Isle,ME,M_50_54,1020.0
+2010,Census,20026,Presque Isle,ME,M_55_59,980.0
+2010,Census,20026,Presque Isle,ME,M_60_64,844.0
+2010,Census,20026,Presque Isle,ME,M_65_69,594.0
+2010,Census,20026,Presque Isle,ME,M_70_74,474.0
+2010,Census,20026,Presque Isle,ME,M_75_79,361.0
+2010,Census,20026,Presque Isle,ME,M_80_84,255.0
+2010,Census,20026,Presque Isle,ME,M_85_110,166.0
+2010,Census,20027,Rockland,ME,F_00_04,1157.0
+2010,Census,20027,Rockland,ME,F_05_09,1208.0
+2010,Census,20027,Rockland,ME,F_10_14,1441.0
+2010,Census,20027,Rockland,ME,F_15_19,1259.0
+2010,Census,20027,Rockland,ME,F_20_24,1039.0
+2010,Census,20027,Rockland,ME,F_25_29,1136.0
+2010,Census,20027,Rockland,ME,F_30_34,1221.0
+2010,Census,20027,Rockland,ME,F_35_39,1387.0
+2010,Census,20027,Rockland,ME,F_40_44,1544.0
+2010,Census,20027,Rockland,ME,F_45_49,1865.0
+2010,Census,20027,Rockland,ME,F_50_54,2207.0
+2010,Census,20027,Rockland,ME,F_55_59,2186.0
+2010,Census,20027,Rockland,ME,F_60_64,1975.0
+2010,Census,20027,Rockland,ME,F_65_69,1478.0
+2010,Census,20027,Rockland,ME,F_70_74,1133.0
+2010,Census,20027,Rockland,ME,F_75_79,883.0
+2010,Census,20027,Rockland,ME,F_80_84,792.0
+2010,Census,20027,Rockland,ME,F_85_110,871.0
+2010,Census,20027,Rockland,ME,M_00_04,1268.0
+2010,Census,20027,Rockland,ME,M_05_09,1374.0
+2010,Census,20027,Rockland,ME,M_10_14,1437.0
+2010,Census,20027,Rockland,ME,M_15_19,1397.0
+2010,Census,20027,Rockland,ME,M_20_24,1132.0
+2010,Census,20027,Rockland,ME,M_25_29,1277.0
+2010,Census,20027,Rockland,ME,M_30_34,1327.0
+2010,Census,20027,Rockland,ME,M_35_39,1537.0
+2010,Census,20027,Rockland,ME,M_40_44,1600.0
+2010,Census,20027,Rockland,ME,M_45_49,1868.0
+2010,Census,20027,Rockland,ME,M_50_54,1993.0
+2010,Census,20027,Rockland,ME,M_55_59,2006.0
+2010,Census,20027,Rockland,ME,M_60_64,1912.0
+2010,Census,20027,Rockland,ME,M_65_69,1403.0
+2010,Census,20027,Rockland,ME,M_70_74,952.0
+2010,Census,20027,Rockland,ME,M_75_79,741.0
+2010,Census,20027,Rockland,ME,M_80_84,585.0
+2010,Census,20027,Rockland,ME,M_85_110,466.0
+2010,Census,20028,Rumford,ME,F_00_04,367.0
+2010,Census,20028,Rumford,ME,F_05_09,337.0
+2010,Census,20028,Rumford,ME,F_10_14,466.0
+2010,Census,20028,Rumford,ME,F_15_19,480.0
+2010,Census,20028,Rumford,ME,F_20_24,358.0
+2010,Census,20028,Rumford,ME,F_25_29,376.0
+2010,Census,20028,Rumford,ME,F_30_34,367.0
+2010,Census,20028,Rumford,ME,F_35_39,436.0
+2010,Census,20028,Rumford,ME,F_40_44,491.0
+2010,Census,20028,Rumford,ME,F_45_49,662.0
+2010,Census,20028,Rumford,ME,F_50_54,717.0
+2010,Census,20028,Rumford,ME,F_55_59,578.0
+2010,Census,20028,Rumford,ME,F_60_64,488.0
+2010,Census,20028,Rumford,ME,F_65_69,391.0
+2010,Census,20028,Rumford,ME,F_70_74,318.0
+2010,Census,20028,Rumford,ME,F_75_79,311.0
+2010,Census,20028,Rumford,ME,F_80_84,271.0
+2010,Census,20028,Rumford,ME,F_85_110,247.0
+2010,Census,20028,Rumford,ME,M_00_04,364.0
+2010,Census,20028,Rumford,ME,M_05_09,396.0
+2010,Census,20028,Rumford,ME,M_10_14,453.0
+2010,Census,20028,Rumford,ME,M_15_19,570.0
+2010,Census,20028,Rumford,ME,M_20_24,374.0
+2010,Census,20028,Rumford,ME,M_25_29,314.0
+2010,Census,20028,Rumford,ME,M_30_34,337.0
+2010,Census,20028,Rumford,ME,M_35_39,400.0
+2010,Census,20028,Rumford,ME,M_40_44,481.0
+2010,Census,20028,Rumford,ME,M_45_49,645.0
+2010,Census,20028,Rumford,ME,M_50_54,695.0
+2010,Census,20028,Rumford,ME,M_55_59,651.0
+2010,Census,20028,Rumford,ME,M_60_64,511.0
+2010,Census,20028,Rumford,ME,M_65_69,399.0
+2010,Census,20028,Rumford,ME,M_70_74,302.0
+2010,Census,20028,Rumford,ME,M_75_79,304.0
+2010,Census,20028,Rumford,ME,M_80_84,153.0
+2010,Census,20028,Rumford,ME,M_85_110,119.0
+2010,Census,20029,Sanford,ME,F_00_04,1564.0
+2010,Census,20029,Sanford,ME,F_05_09,1552.0
+2010,Census,20029,Sanford,ME,F_10_14,1683.0
+2010,Census,20029,Sanford,ME,F_15_19,1768.0
+2010,Census,20029,Sanford,ME,F_20_24,1307.0
+2010,Census,20029,Sanford,ME,F_25_29,1472.0
+2010,Census,20029,Sanford,ME,F_30_34,1611.0
+2010,Census,20029,Sanford,ME,F_35_39,1740.0
+2010,Census,20029,Sanford,ME,F_40_44,1901.0
+2010,Census,20029,Sanford,ME,F_45_49,2295.0
+2010,Census,20029,Sanford,ME,F_50_54,2298.0
+2010,Census,20029,Sanford,ME,F_55_59,2023.0
+2010,Census,20029,Sanford,ME,F_60_64,1630.0
+2010,Census,20029,Sanford,ME,F_65_69,1158.0
+2010,Census,20029,Sanford,ME,F_70_74,816.0
+2010,Census,20029,Sanford,ME,F_75_79,703.0
+2010,Census,20029,Sanford,ME,F_80_84,577.0
+2010,Census,20029,Sanford,ME,F_85_110,618.0
+2010,Census,20029,Sanford,ME,M_00_04,1609.0
+2010,Census,20029,Sanford,ME,M_05_09,1659.0
+2010,Census,20029,Sanford,ME,M_10_14,1767.0
+2010,Census,20029,Sanford,ME,M_15_19,1844.0
+2010,Census,20029,Sanford,ME,M_20_24,1392.0
+2010,Census,20029,Sanford,ME,M_25_29,1445.0
+2010,Census,20029,Sanford,ME,M_30_34,1609.0
+2010,Census,20029,Sanford,ME,M_35_39,1717.0
+2010,Census,20029,Sanford,ME,M_40_44,1880.0
+2010,Census,20029,Sanford,ME,M_45_49,2274.0
+2010,Census,20029,Sanford,ME,M_50_54,2238.0
+2010,Census,20029,Sanford,ME,M_55_59,1879.0
+2010,Census,20029,Sanford,ME,M_60_64,1585.0
+2010,Census,20029,Sanford,ME,M_65_69,1140.0
+2010,Census,20029,Sanford,ME,M_70_74,726.0
+2010,Census,20029,Sanford,ME,M_75_79,601.0
+2010,Census,20029,Sanford,ME,M_80_84,432.0
+2010,Census,20029,Sanford,ME,M_85_110,309.0
+2010,Census,20030,Skowhegan,ME,F_00_04,784.0
+2010,Census,20030,Skowhegan,ME,F_05_09,910.0
+2010,Census,20030,Skowhegan,ME,F_10_14,951.0
+2010,Census,20030,Skowhegan,ME,F_15_19,905.0
+2010,Census,20030,Skowhegan,ME,F_20_24,717.0
+2010,Census,20030,Skowhegan,ME,F_25_29,787.0
+2010,Census,20030,Skowhegan,ME,F_30_34,853.0
+2010,Census,20030,Skowhegan,ME,F_35_39,999.0
+2010,Census,20030,Skowhegan,ME,F_40_44,1126.0
+2010,Census,20030,Skowhegan,ME,F_45_49,1257.0
+2010,Census,20030,Skowhegan,ME,F_50_54,1300.0
+2010,Census,20030,Skowhegan,ME,F_55_59,1251.0
+2010,Census,20030,Skowhegan,ME,F_60_64,1130.0
+2010,Census,20030,Skowhegan,ME,F_65_69,832.0
+2010,Census,20030,Skowhegan,ME,F_70_74,675.0
+2010,Census,20030,Skowhegan,ME,F_75_79,504.0
+2010,Census,20030,Skowhegan,ME,F_80_84,458.0
+2010,Census,20030,Skowhegan,ME,F_85_110,414.0
+2010,Census,20030,Skowhegan,ME,M_00_04,830.0
+2010,Census,20030,Skowhegan,ME,M_05_09,899.0
+2010,Census,20030,Skowhegan,ME,M_10_14,1048.0
+2010,Census,20030,Skowhegan,ME,M_15_19,1030.0
+2010,Census,20030,Skowhegan,ME,M_20_24,746.0
+2010,Census,20030,Skowhegan,ME,M_25_29,796.0
+2010,Census,20030,Skowhegan,ME,M_30_34,814.0
+2010,Census,20030,Skowhegan,ME,M_35_39,973.0
+2010,Census,20030,Skowhegan,ME,M_40_44,1142.0
+2010,Census,20030,Skowhegan,ME,M_45_49,1257.0
+2010,Census,20030,Skowhegan,ME,M_50_54,1314.0
+2010,Census,20030,Skowhegan,ME,M_55_59,1238.0
+2010,Census,20030,Skowhegan,ME,M_60_64,1133.0
+2010,Census,20030,Skowhegan,ME,M_65_69,858.0
+2010,Census,20030,Skowhegan,ME,M_70_74,612.0
+2010,Census,20030,Skowhegan,ME,M_75_79,464.0
+2010,Census,20030,Skowhegan,ME,M_80_84,282.0
+2010,Census,20030,Skowhegan,ME,M_85_110,222.0
+2010,Census,20031,Waterville,ME,F_00_04,1777.0
+2010,Census,20031,Waterville,ME,F_05_09,1931.0
+2010,Census,20031,Waterville,ME,F_10_14,2095.0
+2010,Census,20031,Waterville,ME,F_15_19,2541.0
+2010,Census,20031,Waterville,ME,F_20_24,2432.0
+2010,Census,20031,Waterville,ME,F_25_29,1828.0
+2010,Census,20031,Waterville,ME,F_30_34,1831.0
+2010,Census,20031,Waterville,ME,F_35_39,2120.0
+2010,Census,20031,Waterville,ME,F_40_44,2464.0
+2010,Census,20031,Waterville,ME,F_45_49,2765.0
+2010,Census,20031,Waterville,ME,F_50_54,2954.0
+2010,Census,20031,Waterville,ME,F_55_59,2628.0
+2010,Census,20031,Waterville,ME,F_60_64,2238.0
+2010,Census,20031,Waterville,ME,F_65_69,1667.0
+2010,Census,20031,Waterville,ME,F_70_74,1183.0
+2010,Census,20031,Waterville,ME,F_75_79,1072.0
+2010,Census,20031,Waterville,ME,F_80_84,944.0
+2010,Census,20031,Waterville,ME,F_85_110,929.0
+2010,Census,20031,Waterville,ME,M_00_04,1893.0
+2010,Census,20031,Waterville,ME,M_05_09,1990.0
+2010,Census,20031,Waterville,ME,M_10_14,2182.0
+2010,Census,20031,Waterville,ME,M_15_19,2567.0
+2010,Census,20031,Waterville,ME,M_20_24,2399.0
+2010,Census,20031,Waterville,ME,M_25_29,1734.0
+2010,Census,20031,Waterville,ME,M_30_34,1778.0
+2010,Census,20031,Waterville,ME,M_35_39,2006.0
+2010,Census,20031,Waterville,ME,M_40_44,2310.0
+2010,Census,20031,Waterville,ME,M_45_49,2580.0
+2010,Census,20031,Waterville,ME,M_50_54,2891.0
+2010,Census,20031,Waterville,ME,M_55_59,2643.0
+2010,Census,20031,Waterville,ME,M_60_64,2248.0
+2010,Census,20031,Waterville,ME,M_65_69,1572.0
+2010,Census,20031,Waterville,ME,M_70_74,1068.0
+2010,Census,20031,Waterville,ME,M_75_79,885.0
+2010,Census,20031,Waterville,ME,M_80_84,565.0
+2010,Census,20031,Waterville,ME,M_85_110,469.0
+2010,Census,20033,York,ME,F_00_04,821.0
+2010,Census,20033,York,ME,F_05_09,993.0
+2010,Census,20033,York,ME,F_10_14,1134.0
+2010,Census,20033,York,ME,F_15_19,1039.0
+2010,Census,20033,York,ME,F_20_24,744.0
+2010,Census,20033,York,ME,F_25_29,787.0
+2010,Census,20033,York,ME,F_30_34,818.0
+2010,Census,20033,York,ME,F_35_39,1053.0
+2010,Census,20033,York,ME,F_40_44,1329.0
+2010,Census,20033,York,ME,F_45_49,1740.0
+2010,Census,20033,York,ME,F_50_54,1775.0
+2010,Census,20033,York,ME,F_55_59,1825.0
+2010,Census,20033,York,ME,F_60_64,1626.0
+2010,Census,20033,York,ME,F_65_69,1229.0
+2010,Census,20033,York,ME,F_70_74,988.0
+2010,Census,20033,York,ME,F_75_79,790.0
+2010,Census,20033,York,ME,F_80_84,679.0
+2010,Census,20033,York,ME,F_85_110,646.0
+2010,Census,20033,York,ME,M_00_04,905.0
+2010,Census,20033,York,ME,M_05_09,1071.0
+2010,Census,20033,York,ME,M_10_14,1122.0
+2010,Census,20033,York,ME,M_15_19,1034.0
+2010,Census,20033,York,ME,M_20_24,885.0
+2010,Census,20033,York,ME,M_25_29,889.0
+2010,Census,20033,York,ME,M_30_34,880.0
+2010,Census,20033,York,ME,M_35_39,1007.0
+2010,Census,20033,York,ME,M_40_44,1235.0
+2010,Census,20033,York,ME,M_45_49,1604.0
+2010,Census,20033,York,ME,M_50_54,1596.0
+2010,Census,20033,York,ME,M_55_59,1639.0
+2010,Census,20033,York,ME,M_60_64,1479.0
+2010,Census,20033,York,ME,M_65_69,1069.0
+2010,Census,20033,York,ME,M_70_74,840.0
+2010,Census,20033,York,ME,M_75_79,611.0
+2010,Census,20033,York,ME,M_80_84,474.0
+2010,Census,20033,York,ME,M_85_110,348.0
+2010,Census,20035,Greenville,ME,F_00_04,64.0
+2010,Census,20035,Greenville,ME,F_05_09,65.0
+2010,Census,20035,Greenville,ME,F_10_14,103.0
+2010,Census,20035,Greenville,ME,F_15_19,90.0
+2010,Census,20035,Greenville,ME,F_20_24,60.0
+2010,Census,20035,Greenville,ME,F_25_29,72.0
+2010,Census,20035,Greenville,ME,F_30_34,67.0
+2010,Census,20035,Greenville,ME,F_35_39,105.0
+2010,Census,20035,Greenville,ME,F_40_44,131.0
+2010,Census,20035,Greenville,ME,F_45_49,162.0
+2010,Census,20035,Greenville,ME,F_50_54,196.0
+2010,Census,20035,Greenville,ME,F_55_59,209.0
+2010,Census,20035,Greenville,ME,F_60_64,201.0
+2010,Census,20035,Greenville,ME,F_65_69,127.0
+2010,Census,20035,Greenville,ME,F_70_74,124.0
+2010,Census,20035,Greenville,ME,F_75_79,75.0
+2010,Census,20035,Greenville,ME,F_80_84,56.0
+2010,Census,20035,Greenville,ME,F_85_110,64.0
+2010,Census,20035,Greenville,ME,M_00_04,63.0
+2010,Census,20035,Greenville,ME,M_05_09,96.0
+2010,Census,20035,Greenville,ME,M_10_14,98.0
+2010,Census,20035,Greenville,ME,M_15_19,93.0
+2010,Census,20035,Greenville,ME,M_20_24,50.0
+2010,Census,20035,Greenville,ME,M_25_29,65.0
+2010,Census,20035,Greenville,ME,M_30_34,66.0
+2010,Census,20035,Greenville,ME,M_35_39,97.0
+2010,Census,20035,Greenville,ME,M_40_44,103.0
+2010,Census,20035,Greenville,ME,M_45_49,165.0
+2010,Census,20035,Greenville,ME,M_50_54,189.0
+2010,Census,20035,Greenville,ME,M_55_59,218.0
+2010,Census,20035,Greenville,ME,M_60_64,244.0
+2010,Census,20035,Greenville,ME,M_65_69,172.0
+2010,Census,20035,Greenville,ME,M_70_74,127.0
+2010,Census,20035,Greenville,ME,M_75_79,96.0
+2010,Census,20035,Greenville,ME,M_80_84,33.0
+2010,Census,20035,Greenville,ME,M_85_110,39.0
+2010,Census,30006,Dover,NH,F_00_04,427.0
+2010,Census,30006,Dover,NH,F_05_09,526.0
+2010,Census,30006,Dover,NH,F_10_14,546.0
+2010,Census,30006,Dover,NH,F_15_19,502.0
+2010,Census,30006,Dover,NH,F_20_24,321.0
+2010,Census,30006,Dover,NH,F_25_29,365.0
+2010,Census,30006,Dover,NH,F_30_34,430.0
+2010,Census,30006,Dover,NH,F_35_39,525.0
+2010,Census,30006,Dover,NH,F_40_44,576.0
+2010,Census,30006,Dover,NH,F_45_49,688.0
+2010,Census,30006,Dover,NH,F_50_54,707.0
+2010,Census,30006,Dover,NH,F_55_59,503.0
+2010,Census,30006,Dover,NH,F_60_64,378.0
+2010,Census,30006,Dover,NH,F_65_69,273.0
+2010,Census,30006,Dover,NH,F_70_74,196.0
+2010,Census,30006,Dover,NH,F_75_79,132.0
+2010,Census,30006,Dover,NH,F_80_84,127.0
+2010,Census,30006,Dover,NH,F_85_110,108.0
+2010,Census,30006,Dover,NH,M_00_04,464.0
+2010,Census,30006,Dover,NH,M_05_09,510.0
+2010,Census,30006,Dover,NH,M_10_14,549.0
+2010,Census,30006,Dover,NH,M_15_19,550.0
+2010,Census,30006,Dover,NH,M_20_24,369.0
+2010,Census,30006,Dover,NH,M_25_29,378.0
+2010,Census,30006,Dover,NH,M_30_34,365.0
+2010,Census,30006,Dover,NH,M_35_39,462.0
+2010,Census,30006,Dover,NH,M_40_44,548.0
+2010,Census,30006,Dover,NH,M_45_49,633.0
+2010,Census,30006,Dover,NH,M_50_54,705.0
+2010,Census,30006,Dover,NH,M_55_59,515.0
+2010,Census,30006,Dover,NH,M_60_64,403.0
+2010,Census,30006,Dover,NH,M_65_69,264.0
+2010,Census,30006,Dover,NH,M_70_74,187.0
+2010,Census,30006,Dover,NH,M_75_79,122.0
+2010,Census,30006,Dover,NH,M_80_84,69.0
+2010,Census,30006,Dover,NH,M_85_110,56.0
