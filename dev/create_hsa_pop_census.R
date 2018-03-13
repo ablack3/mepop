@@ -65,6 +65,13 @@ cen_long2 <- cen_long %>%
 
 cen_long2$agesex_grp %>% unique()
 
+# save zipcode population file
+zip_pop_cen_asgrp <- cen_long2 %>%
+    mutate(year = 2010L, source = "Census") %>%
+    select(year, source, zip, agesex_grp, pop = val)
+
+write_csv(zip_pop_cen_asgrp, "./dev/output tables/zip_pop_cen_asgrp.csv")
+
 
 hsa_pop_cen_asgrp <- cen_long2 %>%
     left_join(cw, by = "zip") %>%
