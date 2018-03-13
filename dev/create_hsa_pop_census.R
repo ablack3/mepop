@@ -68,10 +68,20 @@ cen_long2$agesex_grp %>% unique()
 # save zipcode population file
 zip_pop_cen_asgrp <- cen_long2 %>%
     mutate(year = 2010L, source = "Census") %>%
-    select(year, source, zip, agesex_grp, pop = val)
+    group_by(year, source, zip, agesex_grp) %>%
+    summarise(pop = sum(val)) %>%
+    ungroup()
+
+# check that zip and agesex_grp are unique identifiers of a row
+zip_pop_cen_asgrp %>%
+    count(zip, agesex_grp) %>%
+    filter(n>1)
+
+# check that sums match up
+sum(zip_pop_cen_asgrp$pop)
+sum(mepop::hsa_pop_cen$pop)
 
 write_csv(zip_pop_cen_asgrp, "./dev/output tables/zip_pop_cen_asgrp.csv")
-
 
 hsa_pop_cen_asgrp <- cen_long2 %>%
     left_join(cw, by = "zip") %>%
